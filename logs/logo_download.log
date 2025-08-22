@@ -1,0 +1,2364 @@
+[2025-08-22 08:57:01] 🚀 Starting stock logo download process...
+[2025-08-22 08:57:01] 🔍 Fetching tickers from API...
+[2025-08-22 08:57:02] 📊 Found 937 tickers from API
+[2025-08-22 08:57:02] 📍 Processing AAPL (1/937)
+[2025-08-22 08:57:02] ⏭️  Skipping AAPL - file already exists
+[2025-08-22 08:57:03] 📍 Processing ABBV (2/937)
+[2025-08-22 08:57:03] ⏭️  Skipping ABBV - file already exists
+[2025-08-22 08:57:03] 📍 Processing ADP (3/937)
+[2025-08-22 08:57:03] ⏭️  Skipping ADP - file already exists
+[2025-08-22 08:57:04] 📍 Processing ADS (4/937)
+[2025-08-22 08:57:04] ⏭️  Skipping ADS - file already exists
+[2025-08-22 08:57:04] 📍 Processing AMD (5/937)
+[2025-08-22 08:57:04] ⏭️  Skipping AMD - file already exists
+[2025-08-22 08:57:05] 📍 Processing ASML (6/937)
+[2025-08-22 08:57:05] ⏭️  Skipping ASML - file already exists
+[2025-08-22 08:57:05] 📍 Processing BY6 (7/937)
+[2025-08-22 08:57:05] ⬇️  Downloading logo for BY6...
+[2025-08-22 08:57:06] ⚠️  HTTP 404 for BY6 - logo may not exist
+[2025-08-22 08:57:06] 📍 Processing BYDDY (8/937)
+[2025-08-22 08:57:06] ⏭️  Skipping BYDDY - file already exists
+[2025-08-22 08:57:07] 📍 Processing CNQ (9/937)
+[2025-08-22 08:57:07] ⏭️  Skipping CNQ - file already exists
+[2025-08-22 08:57:07] 📍 Processing CSCO (10/937)
+[2025-08-22 08:57:07] ⏭️  Skipping CSCO - file already exists
+[2025-08-22 08:57:08] 📍 Processing CVX (11/937)
+[2025-08-22 08:57:08] ⏭️  Skipping CVX - file already exists
+[2025-08-22 08:57:08] 📍 Processing DASH (12/937)
+[2025-08-22 08:57:08] ⏭️  Skipping DASH - file already exists
+[2025-08-22 08:57:09] 📍 Processing DHER (13/937)
+[2025-08-22 08:57:09] ⬇️  Downloading logo for DHER...
+[2025-08-22 08:57:09] ⚠️  HTTP 404 for DHER - logo may not exist
+[2025-08-22 08:57:10] 📍 Processing DHR (14/937)
+[2025-08-22 08:57:10] ⏭️  Skipping DHR - file already exists
+[2025-08-22 08:57:10] 📍 Processing EA (15/937)
+[2025-08-22 08:57:10] ⏭️  Skipping EA - file already exists
+[2025-08-22 08:57:11] 📍 Processing ECL (16/937)
+[2025-08-22 08:57:11] ⏭️  Skipping ECL - file already exists
+[2025-08-22 08:57:11] 📍 Processing EMR (17/937)
+[2025-08-22 08:57:11] ⏭️  Skipping EMR - file already exists
+[2025-08-22 08:57:12] 📍 Processing ERT (18/937)
+[2025-08-22 08:57:12] ⬇️  Downloading logo for ERT...
+[2025-08-22 08:57:12] ⚠️  HTTP 404 for ERT - logo may not exist
+[2025-08-22 08:57:13] 📍 Processing GILD (19/937)
+[2025-08-22 08:57:13] ⏭️  Skipping GILD - file already exists
+[2025-08-22 08:57:13] 📍 Processing GWW (20/937)
+[2025-08-22 08:57:13] ⏭️  Skipping GWW - file already exists
+[2025-08-22 08:57:14] 📍 Processing HD (21/937)
+[2025-08-22 08:57:14] ⏭️  Skipping HD - file already exists
+[2025-08-22 08:57:14] 📍 Processing ITW (22/937)
+[2025-08-22 08:57:14] ⏭️  Skipping ITW - file already exists
+[2025-08-22 08:57:15] 📍 Processing JNJ (23/937)
+[2025-08-22 08:57:15] ⏭️  Skipping JNJ - file already exists
+[2025-08-22 08:57:15] 📍 Processing KMB (24/937)
+[2025-08-22 08:57:15] ⏭️  Skipping KMB - file already exists
+[2025-08-22 08:57:16] 📍 Processing MDT (25/937)
+[2025-08-22 08:57:16] ⏭️  Skipping MDT - file already exists
+[2025-08-22 08:57:16] 📍 Processing MELI (26/937)
+[2025-08-22 08:57:16] ⏭️  Skipping MELI - file already exists
+[2025-08-22 08:57:17] 📍 Processing MMM (27/937)
+[2025-08-22 08:57:17] ⏭️  Skipping MMM - file already exists
+[2025-08-22 08:57:17] 📍 Processing NOW (28/937)
+[2025-08-22 08:57:17] ⏭️  Skipping NOW - file already exists
+[2025-08-22 08:57:18] 📍 Processing NUE (29/937)
+[2025-08-22 08:57:18] ⏭️  Skipping NUE - file already exists
+[2025-08-22 08:57:18] 📍 Processing PATH (30/937)
+[2025-08-22 08:57:18] ⏭️  Skipping PATH - file already exists
+[2025-08-22 08:57:19] 📍 Processing PINS (31/937)
+[2025-08-22 08:57:19] ⏭️  Skipping PINS - file already exists
+[2025-08-22 08:57:19] 📍 Processing PYPL (32/937)
+[2025-08-22 08:57:19] ⏭️  Skipping PYPL - file already exists
+[2025-08-22 08:57:20] 📍 Processing RBLX (33/937)
+[2025-08-22 08:57:20] ⏭️  Skipping RBLX - file already exists
+[2025-08-22 08:57:20] 📍 Processing RKT (34/937)
+[2025-08-22 08:57:20] ⏭️  Skipping RKT - file already exists
+[2025-08-22 08:57:21] 📍 Processing ROP (35/937)
+[2025-08-22 08:57:21] ⏭️  Skipping ROP - file already exists
+[2025-08-22 08:57:21] 📍 Processing SAP (36/937)
+[2025-08-22 08:57:21] ⬇️  Downloading logo for SAP...
+[2025-08-22 08:57:22] ⚠️  HTTP 404 for SAP - logo may not exist
+[2025-08-22 08:57:22] 📍 Processing SHOP (37/937)
+[2025-08-22 08:57:22] ⏭️  Skipping SHOP - file already exists
+[2025-08-22 08:57:23] 📍 Processing SHW (38/937)
+[2025-08-22 08:57:23] ⏭️  Skipping SHW - file already exists
+[2025-08-22 08:57:23] 📍 Processing SMCI (39/937)
+[2025-08-22 08:57:23] ⏭️  Skipping SMCI - file already exists
+[2025-08-22 08:57:24] 📍 Processing SWVL (40/937)
+[2025-08-22 08:57:24] ⬇️  Downloading logo for SWVL...
+[2025-08-22 08:57:24] ⚠️  HTTP 404 for SWVL - logo may not exist
+[2025-08-22 08:57:25] 📍 Processing TER (41/937)
+[2025-08-22 08:57:25] ⏭️  Skipping TER - file already exists
+[2025-08-22 08:57:26] 📍 Processing TSLA (42/937)
+[2025-08-22 08:57:26] ⏭️  Skipping TSLA - file already exists
+[2025-08-22 08:57:26] 📍 Processing TSM (43/937)
+[2025-08-22 08:57:26] ⏭️  Skipping TSM - file already exists
+[2025-08-22 08:57:27] 📍 Processing TTD (44/937)
+[2025-08-22 08:57:27] ⏭️  Skipping TTD - file already exists
+[2025-08-22 08:57:27] 📍 Processing UBER (45/937)
+[2025-08-22 08:57:27] ⏭️  Skipping UBER - file already exists
+[2025-08-22 08:57:28] 📍 Processing V (46/937)
+[2025-08-22 08:57:28] ⏭️  Skipping V - file already exists
+[2025-08-22 08:57:28] 📍 Processing VCYT (47/937)
+[2025-08-22 08:57:28] ⏭️  Skipping VCYT - file already exists
+[2025-08-22 08:57:29] 📍 Processing WMT (48/937)
+[2025-08-22 08:57:29] ⏭️  Skipping WMT - file already exists
+[2025-08-22 08:57:29] 📍 Processing XOM (49/937)
+[2025-08-22 08:57:29] ⏭️  Skipping XOM - file already exists
+[2025-08-22 08:57:30] 📍 Processing ALCBIA.WRT (50/937)
+[2025-08-22 08:57:30] ⬇️  Downloading logo for ALCBIA.WRT...
+[2025-08-22 08:57:30] ⚠️  HTTP 404 for ALCBIA.WRT - logo may not exist
+[2025-08-22 08:57:31] 📍 Processing 1COV (51/937)
+[2025-08-22 08:57:31] ⬇️  Downloading logo for 1COV...
+[2025-08-22 08:57:31] ⚠️  HTTP 404 for 1COV - logo may not exist
+[2025-08-22 08:57:32] 📍 Processing MSFT (52/937)
+[2025-08-22 08:57:32] ⏭️  Skipping MSFT - file already exists
+[2025-08-22 08:57:32] 📍 Processing GOOGL (53/937)
+[2025-08-22 08:57:32] ⏭️  Skipping GOOGL - file already exists
+[2025-08-22 08:57:33] 📍 Processing AMZN (54/937)
+[2025-08-22 08:57:33] ⏭️  Skipping AMZN - file already exists
+[2025-08-22 08:57:33] 📍 Processing NVDA (55/937)
+[2025-08-22 08:57:33] ⏭️  Skipping NVDA - file already exists
+[2025-08-22 08:57:34] 📍 Processing INTC (56/937)
+[2025-08-22 08:57:34] ⏭️  Skipping INTC - file already exists
+[2025-08-22 08:57:34] 📍 Processing ADBE (57/937)
+[2025-08-22 08:57:34] ⏭️  Skipping ADBE - file already exists
+[2025-08-22 08:57:35] 📍 Processing PEP (58/937)
+[2025-08-22 08:57:35] ⏭️  Skipping PEP - file already exists
+[2025-08-22 08:57:35] 📍 Processing LLY (59/937)
+[2025-08-22 08:57:35] ⏭️  Skipping LLY - file already exists
+[2025-08-22 08:57:36] 📍 Processing NVO (60/937)
+[2025-08-22 08:57:36] ⏭️  Skipping NVO - file already exists
+[2025-08-22 08:57:36] 📍 Processing AVGO (61/937)
+[2025-08-22 08:57:36] ⏭️  Skipping AVGO - file already exists
+[2025-08-22 08:57:37] 📍 Processing PG (62/937)
+[2025-08-22 08:57:37] ⏭️  Skipping PG - file already exists
+[2025-08-22 08:57:37] 📍 Processing NKE (63/937)
+[2025-08-22 08:57:37] ⏭️  Skipping NKE - file already exists
+[2025-08-22 08:57:38] 📍 Processing META (64/937)
+[2025-08-22 08:57:38] ⬇️  Downloading logo for META...
+[2025-08-22 08:57:38] ⚠️  HTTP 404 for META - logo may not exist
+[2025-08-22 08:57:39] 📍 Processing NFLX (65/937)
+[2025-08-22 08:57:39] ⏭️  Skipping NFLX - file already exists
+[2025-08-22 08:57:39] 📍 Processing CMCSA (66/937)
+[2025-08-22 08:57:39] ⏭️  Skipping CMCSA - file already exists
+[2025-08-22 08:57:40] 📍 Processing COST (67/937)
+[2025-08-22 08:57:40] ⏭️  Skipping COST - file already exists
+[2025-08-22 08:57:40] 📍 Processing BABA (68/937)
+[2025-08-22 08:57:40] ⏭️  Skipping BABA - file already exists
+[2025-08-22 08:57:41] 📍 Processing BIDU (69/937)
+[2025-08-22 08:57:41] ⏭️  Skipping BIDU - file already exists
+[2025-08-22 08:57:41] 📍 Processing JD (70/937)
+[2025-08-22 08:57:41] ⬇️  Downloading logo for JD...
+[2025-08-22 08:57:42] ⚠️  HTTP 404 for JD - logo may not exist
+[2025-08-22 08:57:42] 📍 Processing PDD (71/937)
+[2025-08-22 08:57:42] ⏭️  Skipping PDD - file already exists
+[2025-08-22 08:57:43] 📍 Processing NIO (72/937)
+[2025-08-22 08:57:43] ⏭️  Skipping NIO - file already exists
+[2025-08-22 08:57:43] 📍 Processing TCEHY (73/937)
+[2025-08-22 08:57:43] ⬇️  Downloading logo for TCEHY...
+[2025-08-22 08:57:44] ⚠️  HTTP 404 for TCEHY - logo may not exist
+[2025-08-22 08:57:44] 📍 Processing NTES (74/937)
+[2025-08-22 08:57:44] ⏭️  Skipping NTES - file already exists
+[2025-08-22 08:57:45] 📍 Processing TAL (75/937)
+[2025-08-22 08:57:45] ⏭️  Skipping TAL - file already exists
+[2025-08-22 08:57:45] 📍 Processing YUMC (76/937)
+[2025-08-22 08:57:45] ⏭️  Skipping YUMC - file already exists
+[2025-08-22 08:57:46] 📍 Processing LI (77/937)
+[2025-08-22 08:57:46] ⬇️  Downloading logo for LI...
+[2025-08-22 08:57:46] ⚠️  HTTP 404 for LI - logo may not exist
+[2025-08-22 08:57:47] 📍 Processing TGT (78/937)
+[2025-08-22 08:57:47] ⏭️  Skipping TGT - file already exists
+[2025-08-22 08:57:47] 📍 Processing DIS (79/937)
+[2025-08-22 08:57:47] ⏭️  Skipping DIS - file already exists
+[2025-08-22 08:57:48] 📍 Processing SPOT (80/937)
+[2025-08-22 08:57:48] ⏭️  Skipping SPOT - file already exists
+[2025-08-22 08:57:48] 📍 Processing XPEV (81/937)
+[2025-08-22 08:57:48] ⏭️  Skipping XPEV - file already exists
+[2025-08-22 08:57:49] 📍 Processing VIPS (82/937)
+[2025-08-22 08:57:49] ⏭️  Skipping VIPS - file already exists
+[2025-08-22 08:57:49] 📍 Processing PFE (83/937)
+[2025-08-22 08:57:49] ⏭️  Skipping PFE - file already exists
+[2025-08-22 08:57:50] 📍 Processing MRK (84/937)
+[2025-08-22 08:57:50] ⏭️  Skipping MRK - file already exists
+[2025-08-22 08:57:51] 📍 Processing BRK.A (85/937)
+[2025-08-22 08:57:51] ⏭️  Skipping BRK.A - file already exists
+[2025-08-22 08:57:51] 📍 Processing CRM (86/937)
+[2025-08-22 08:57:51] ⏭️  Skipping CRM - file already exists
+[2025-08-22 08:57:52] 📍 Processing VIV (87/937)
+[2025-08-22 08:57:52] ⬇️  Downloading logo for VIV...
+[2025-08-22 08:57:52] ⚠️  HTTP 404 for VIV - logo may not exist
+[2025-08-22 08:57:53] 📍 Processing FCRQF (88/937)
+[2025-08-22 08:57:53] ⬇️  Downloading logo for FCRQF...
+[2025-08-22 08:57:53] ⚠️  HTTP 404 for FCRQF - logo may not exist
+[2025-08-22 08:57:54] 📍 Processing SIHBY (89/937)
+[2025-08-22 08:57:54] ⬇️  Downloading logo for SIHBY...
+[2025-08-22 08:57:54] ⚠️  HTTP 404 for SIHBY - logo may not exist
+[2025-08-22 08:57:55] 📍 Processing SHEZF (90/937)
+[2025-08-22 08:57:55] ⬇️  Downloading logo for SHEZF...
+[2025-08-22 08:57:55] ⚠️  HTTP 404 for SHEZF - logo may not exist
+[2025-08-22 08:57:56] 📍 Processing MGCOF (91/937)
+[2025-08-22 08:57:56] ⬇️  Downloading logo for MGCOF...
+[2025-08-22 08:57:56] ⚠️  HTTP 404 for MGCOF - logo may not exist
+[2025-08-22 08:57:57] 📍 Processing BOLSY (92/937)
+[2025-08-22 08:57:57] ⬇️  Downloading logo for BOLSY...
+[2025-08-22 08:57:57] ⚠️  HTTP 404 for BOLSY - logo may not exist
+[2025-08-22 08:57:58] 📍 Processing PSEC (93/937)
+[2025-08-22 08:57:58] ⏭️  Skipping PSEC - file already exists
+[2025-08-22 08:57:58] 📍 Processing TTVSY (94/937)
+[2025-08-22 08:57:58] ⬇️  Downloading logo for TTVSY...
+[2025-08-22 08:57:59] ⚠️  HTTP 404 for TTVSY - logo may not exist
+[2025-08-22 08:57:59] 📍 Processing ANDE (95/937)
+[2025-08-22 08:57:59] ⏭️  Skipping ANDE - file already exists
+[2025-08-22 08:58:00] 📍 Processing INGR (96/937)
+[2025-08-22 08:58:00] ⏭️  Skipping INGR - file already exists
+[2025-08-22 08:58:00] 📍 Processing DNTCF (97/937)
+[2025-08-22 08:58:00] ⬇️  Downloading logo for DNTCF...
+[2025-08-22 08:58:01] ⚠️  HTTP 404 for DNTCF - logo may not exist
+[2025-08-22 08:58:01] 📍 Processing PNDFF (98/937)
+[2025-08-22 08:58:01] ⬇️  Downloading logo for PNDFF...
+[2025-08-22 08:58:02] ⚠️  HTTP 404 for PNDFF - logo may not exist
+[2025-08-22 08:58:02] 📍 Processing MU (99/937)
+[2025-08-22 08:58:02] ⏭️  Skipping MU - file already exists
+[2025-08-22 08:58:03] 📍 Processing UBFO (100/937)
+[2025-08-22 08:58:03] ⬇️  Downloading logo for UBFO...
+[2025-08-22 08:58:04] ⚠️  HTTP 404 for UBFO - logo may not exist
+[2025-08-22 08:58:04] 📍 Processing DG (101/937)
+[2025-08-22 08:58:04] ⏭️  Skipping DG - file already exists
+[2025-08-22 08:58:05] 📍 Processing ERIE (102/937)
+[2025-08-22 08:58:05] ⏭️  Skipping ERIE - file already exists
+[2025-08-22 08:58:05] 📍 Processing PFBC (103/937)
+[2025-08-22 08:58:05] ⬇️  Downloading logo for PFBC...
+[2025-08-22 08:58:06] ⚠️  HTTP 404 for PFBC - logo may not exist
+[2025-08-22 08:58:06] 📍 Processing LGI (104/937)
+[2025-08-22 08:58:06] ⬇️  Downloading logo for LGI...
+[2025-08-22 08:58:06] ⚠️  HTTP 404 for LGI - logo may not exist
+[2025-08-22 08:58:07] 📍 Processing RVSB (105/937)
+[2025-08-22 08:58:07] ⬇️  Downloading logo for RVSB...
+[2025-08-22 08:58:07] ⚠️  HTTP 404 for RVSB - logo may not exist
+[2025-08-22 08:58:08] 📍 Processing ASBFY (106/937)
+[2025-08-22 08:58:08] ⬇️  Downloading logo for ASBFY...
+[2025-08-22 08:58:09] ⚠️  HTTP 404 for ASBFY - logo may not exist
+[2025-08-22 08:58:09] 📍 Processing IFJPY (107/937)
+[2025-08-22 08:58:09] ⬇️  Downloading logo for IFJPY...
+[2025-08-22 08:58:10] ⚠️  HTTP 404 for IFJPY - logo may not exist
+[2025-08-22 08:58:10] 📍 Processing JSAIY (108/937)
+[2025-08-22 08:58:10] ⬇️  Downloading logo for JSAIY...
+[2025-08-22 08:58:11] ⚠️  HTTP 404 for JSAIY - logo may not exist
+[2025-08-22 08:58:11] 📍 Processing YZCAY (109/937)
+[2025-08-22 08:58:11] ⬇️  Downloading logo for YZCAY...
+[2025-08-22 08:58:12] ⚠️  HTTP 404 for YZCAY - logo may not exist
+[2025-08-22 08:58:12] 📍 Processing SNOTF (110/937)
+[2025-08-22 08:58:12] ⬇️  Downloading logo for SNOTF...
+[2025-08-22 08:58:13] ⚠️  HTTP 404 for SNOTF - logo may not exist
+[2025-08-22 08:58:13] 📍 Processing SOCLF (111/937)
+[2025-08-22 08:58:13] ⬇️  Downloading logo for SOCLF...
+[2025-08-22 08:58:14] ⚠️  HTTP 404 for SOCLF - logo may not exist
+[2025-08-22 08:58:14] 📍 Processing MEYYY (112/937)
+[2025-08-22 08:58:14] ⬇️  Downloading logo for MEYYY...
+[2025-08-22 08:58:15] ⚠️  HTTP 404 for MEYYY - logo may not exist
+[2025-08-22 08:58:15] 📍 Processing RGP (113/937)
+[2025-08-22 08:58:15] ⬇️  Downloading logo for RGP...
+[2025-08-22 08:58:16] ⚠️  HTTP 404 for RGP - logo may not exist
+[2025-08-22 08:58:16] 📍 Processing TJIPF (114/937)
+[2025-08-22 08:58:16] ⬇️  Downloading logo for TJIPF...
+[2025-08-22 08:58:17] ⚠️  HTTP 404 for TJIPF - logo may not exist
+[2025-08-22 08:58:17] 📍 Processing BSTT (115/937)
+[2025-08-22 08:58:17] ⬇️  Downloading logo for BSTT...
+[2025-08-22 08:58:18] ⚠️  HTTP 404 for BSTT - logo may not exist
+[2025-08-22 08:58:18] 📍 Processing FR (116/937)
+[2025-08-22 08:58:18] ⬇️  Downloading logo for FR...
+[2025-08-22 08:58:19] ⚠️  HTTP 404 for FR - logo may not exist
+[2025-08-22 08:58:19] 📍 Processing LINE (117/937)
+[2025-08-22 08:58:19] ⬇️  Downloading logo for LINE...
+[2025-08-22 08:58:20] ⚠️  HTTP 404 for LINE - logo may not exist
+[2025-08-22 08:58:21] 📍 Processing TCLAF (118/937)
+[2025-08-22 08:58:21] ⬇️  Downloading logo for TCLAF...
+[2025-08-22 08:58:21] ⚠️  HTTP 404 for TCLAF - logo may not exist
+[2025-08-22 08:58:22] 📍 Processing TCLCF (119/937)
+[2025-08-22 08:58:22] ⬇️  Downloading logo for TCLCF...
+[2025-08-22 08:58:22] ⚠️  HTTP 404 for TCLCF - logo may not exist
+[2025-08-22 08:58:22] 📍 Processing AMADY (120/937)
+[2025-08-22 08:58:22] ⬇️  Downloading logo for AMADY...
+[2025-08-22 08:58:23] ⚠️  HTTP 404 for AMADY - logo may not exist
+[2025-08-22 08:58:23] 📍 Processing ERELY (121/937)
+[2025-08-22 08:58:23] ⬇️  Downloading logo for ERELY...
+[2025-08-22 08:58:24] ⚠️  HTTP 404 for ERELY - logo may not exist
+[2025-08-22 08:58:24] 📍 Processing HLTOY (122/937)
+[2025-08-22 08:58:24] ⬇️  Downloading logo for HLTOY...
+[2025-08-22 08:58:25] ⚠️  HTTP 404 for HLTOY - logo may not exist
+[2025-08-22 08:58:25] 📍 Processing ANCTF (123/937)
+[2025-08-22 08:58:25] ⬇️  Downloading logo for ANCTF...
+[2025-08-22 08:58:26] ⚠️  HTTP 404 for ANCTF - logo may not exist
+[2025-08-22 08:58:27] 📍 Processing CRCT (124/937)
+[2025-08-22 08:58:27] ⏭️  Skipping CRCT - file already exists
+[2025-08-22 08:58:27] 📍 Processing BBMPY (125/937)
+[2025-08-22 08:58:27] ⬇️  Downloading logo for BBMPY...
+[2025-08-22 08:58:28] ⚠️  HTTP 404 for BBMPY - logo may not exist
+[2025-08-22 08:58:28] 📍 Processing CJRCF (126/937)
+[2025-08-22 08:58:28] ⬇️  Downloading logo for CJRCF...
+[2025-08-22 08:58:29] ⚠️  HTTP 404 for CJRCF - logo may not exist
+[2025-08-22 08:58:29] 📍 Processing TYCMY (127/937)
+[2025-08-22 08:58:29] ⬇️  Downloading logo for TYCMY...
+[2025-08-22 08:58:30] ⚠️  HTTP 404 for TYCMY - logo may not exist
+[2025-08-22 08:58:30] 📍 Processing CRPJF (128/937)
+[2025-08-22 08:58:30] ⬇️  Downloading logo for CRPJF...
+[2025-08-22 08:58:31] ⚠️  HTTP 404 for CRPJF - logo may not exist
+[2025-08-22 08:58:31] 📍 Processing WWHZF (129/937)
+[2025-08-22 08:58:31] ⬇️  Downloading logo for WWHZF...
+[2025-08-22 08:58:32] ⚠️  HTTP 404 for WWHZF - logo may not exist
+[2025-08-22 08:58:32] 📍 Processing CTGDF (130/937)
+[2025-08-22 08:58:32] ⬇️  Downloading logo for CTGDF...
+[2025-08-22 08:58:33] ⚠️  HTTP 404 for CTGDF - logo may not exist
+[2025-08-22 08:58:34] 📍 Processing UMC (131/937)
+[2025-08-22 08:58:34] ⬇️  Downloading logo for UMC...
+[2025-08-22 08:58:34] ⚠️  HTTP 404 for UMC - logo may not exist
+[2025-08-22 08:58:35] 📍 Processing SMGBF (132/937)
+[2025-08-22 08:58:35] ⬇️  Downloading logo for SMGBF...
+[2025-08-22 08:58:35] ⚠️  HTTP 404 for SMGBF - logo may not exist
+[2025-08-22 08:58:36] 📍 Processing ABLFX (133/937)
+[2025-08-22 08:58:36] ⬇️  Downloading logo for ABLFX...
+[2025-08-22 08:58:36] ⚠️  HTTP 404 for ABLFX - logo may not exist
+[2025-08-22 08:58:37] 📍 Processing ABLGX (134/937)
+[2025-08-22 08:58:37] ⬇️  Downloading logo for ABLGX...
+[2025-08-22 08:58:37] ⚠️  HTTP 404 for ABLGX - logo may not exist
+[2025-08-22 08:58:38] 📍 Processing ABLHX (135/937)
+[2025-08-22 08:58:38] ⬇️  Downloading logo for ABLHX...
+[2025-08-22 08:58:38] ⚠️  HTTP 404 for ABLHX - logo may not exist
+[2025-08-22 08:58:38] 📍 Processing MPIDX (136/937)
+[2025-08-22 08:58:38] ⬇️  Downloading logo for MPIDX...
+[2025-08-22 08:58:39] ⚠️  HTTP 404 for MPIDX - logo may not exist
+[2025-08-22 08:58:40] 📍 Processing OTGLY (137/937)
+[2025-08-22 08:58:40] ⬇️  Downloading logo for OTGLY...
+[2025-08-22 08:58:40] ⚠️  HTTP 404 for OTGLY - logo may not exist
+[2025-08-22 08:58:41] 📍 Processing A (138/937)
+[2025-08-22 08:58:41] ⏭️  Skipping A - file already exists
+[2025-08-22 08:58:41] 📍 Processing NTAP (139/937)
+[2025-08-22 08:58:41] ⏭️  Skipping NTAP - file already exists
+[2025-08-22 08:58:42] 📍 Processing PIFMF (140/937)
+[2025-08-22 08:58:42] ⬇️  Downloading logo for PIFMF...
+[2025-08-22 08:58:42] ⚠️  HTTP 404 for PIFMF - logo may not exist
+[2025-08-22 08:58:43] 📍 Processing SPNUF (141/937)
+[2025-08-22 08:58:43] ⬇️  Downloading logo for SPNUF...
+[2025-08-22 08:58:43] ⚠️  HTTP 404 for SPNUF - logo may not exist
+[2025-08-22 08:58:44] 📍 Processing CCU (142/937)
+[2025-08-22 08:58:44] ⬇️  Downloading logo for CCU...
+[2025-08-22 08:58:44] ⚠️  HTTP 404 for CCU - logo may not exist
+[2025-08-22 08:58:45] 📍 Processing SHGXY (143/937)
+[2025-08-22 08:58:45] ⬇️  Downloading logo for SHGXY...
+[2025-08-22 08:58:45] ⚠️  HTTP 404 for SHGXY - logo may not exist
+[2025-08-22 08:58:46] 📍 Processing BNITF (144/937)
+[2025-08-22 08:58:46] ⬇️  Downloading logo for BNITF...
+[2025-08-22 08:58:46] ⚠️  HTTP 404 for BNITF - logo may not exist
+[2025-08-22 08:58:47] 📍 Processing CHFHY (145/937)
+[2025-08-22 08:58:47] ⬇️  Downloading logo for CHFHY...
+[2025-08-22 08:58:47] ⚠️  HTTP 404 for CHFHY - logo may not exist
+[2025-08-22 08:58:48] 📍 Processing PCCYF (146/937)
+[2025-08-22 08:58:48] ⬇️  Downloading logo for PCCYF...
+[2025-08-22 08:58:48] ⚠️  HTTP 404 for PCCYF - logo may not exist
+[2025-08-22 08:58:49] 📍 Processing SPTJF (147/937)
+[2025-08-22 08:58:49] ⬇️  Downloading logo for SPTJF...
+[2025-08-22 08:58:49] ⚠️  HTTP 404 for SPTJF - logo may not exist
+[2025-08-22 08:58:50] 📍 Processing ASUTZ (148/937)
+[2025-08-22 08:58:50] ⬇️  Downloading logo for ASUTZ...
+[2025-08-22 08:58:50] ⚠️  HTTP 404 for ASUTZ - logo may not exist
+[2025-08-22 08:58:51] 📍 Processing GGDVF (149/937)
+[2025-08-22 08:58:51] ⬇️  Downloading logo for GGDVF...
+[2025-08-22 08:58:51] ⚠️  HTTP 404 for GGDVF - logo may not exist
+[2025-08-22 08:58:52] 📍 Processing SRRLF (150/937)
+[2025-08-22 08:58:52] ⬇️  Downloading logo for SRRLF...
+[2025-08-22 08:58:53] ⚠️  HTTP 404 for SRRLF - logo may not exist
+[2025-08-22 08:58:53] 📍 Processing BACPRK (151/937)
+[2025-08-22 08:58:53] ⬇️  Downloading logo for BACPRK...
+[2025-08-22 08:58:53] ⚠️  HTTP 404 for BACPRK - logo may not exist
+[2025-08-22 08:58:54] 📍 Processing BHKLY (152/937)
+[2025-08-22 08:58:54] ⬇️  Downloading logo for BHKLY...
+[2025-08-22 08:58:54] ⚠️  HTTP 404 for BHKLY - logo may not exist
+[2025-08-22 08:58:55] 📍 Processing BVVBY (153/937)
+[2025-08-22 08:58:55] ⬇️  Downloading logo for BVVBY...
+[2025-08-22 08:58:55] ⚠️  HTTP 404 for BVVBY - logo may not exist
+[2025-08-22 08:58:56] 📍 Processing ACU (154/937)
+[2025-08-22 08:58:56] ⬇️  Downloading logo for ACU...
+[2025-08-22 08:58:56] ⚠️  HTTP 404 for ACU - logo may not exist
+[2025-08-22 08:58:57] 📍 Processing CBLNY (155/937)
+[2025-08-22 08:58:57] ⬇️  Downloading logo for CBLNY...
+[2025-08-22 08:58:57] ⚠️  HTTP 404 for CBLNY - logo may not exist
+[2025-08-22 08:58:58] 📍 Processing FTUAF (156/937)
+[2025-08-22 08:58:58] ⬇️  Downloading logo for FTUAF...
+[2025-08-22 08:58:58] ⚠️  HTTP 404 for FTUAF - logo may not exist
+[2025-08-22 08:58:59] 📍 Processing SSD (157/937)
+[2025-08-22 08:58:59] ⏭️  Skipping SSD - file already exists
+[2025-08-22 08:58:59] 📍 Processing VLGEA (158/937)
+[2025-08-22 08:58:59] ⬇️  Downloading logo for VLGEA...
+[2025-08-22 08:59:00] ⚠️  HTTP 404 for VLGEA - logo may not exist
+[2025-08-22 08:59:00] 📍 Processing WNC (159/937)
+[2025-08-22 08:59:00] ⬇️  Downloading logo for WNC...
+[2025-08-22 08:59:01] ⚠️  HTTP 404 for WNC - logo may not exist
+[2025-08-22 08:59:01] 📍 Processing SAR (160/937)
+[2025-08-22 08:59:01] ⬇️  Downloading logo for SAR...
+[2025-08-22 08:59:02] ⚠️  HTTP 404 for SAR - logo may not exist
+[2025-08-22 08:59:02] 📍 Processing SMFG (161/937)
+[2025-08-22 08:59:02] ⬇️  Downloading logo for SMFG...
+[2025-08-22 08:59:03] ⚠️  HTTP 404 for SMFG - logo may not exist
+[2025-08-22 08:59:03] 📍 Processing HOSHF (162/937)
+[2025-08-22 08:59:03] ⬇️  Downloading logo for HOSHF...
+[2025-08-22 08:59:04] ⚠️  HTTP 404 for HOSHF - logo may not exist
+[2025-08-22 08:59:05] 📍 Processing LRFC (163/937)
+[2025-08-22 08:59:05] ⬇️  Downloading logo for LRFC...
+[2025-08-22 08:59:05] ⚠️  HTTP 404 for LRFC - logo may not exist
+[2025-08-22 08:59:06] 📍 Processing ZOJIF (164/937)
+[2025-08-22 08:59:06] ⬇️  Downloading logo for ZOJIF...
+[2025-08-22 08:59:06] ⚠️  HTTP 404 for ZOJIF - logo may not exist
+[2025-08-22 08:59:07] 📍 Processing CIMEF (165/937)
+[2025-08-22 08:59:07] ⬇️  Downloading logo for CIMEF...
+[2025-08-22 08:59:07] ⚠️  HTTP 404 for CIMEF - logo may not exist
+[2025-08-22 08:59:08] 📍 Processing XNGSF (166/937)
+[2025-08-22 08:59:08] ⬇️  Downloading logo for XNGSF...
+[2025-08-22 08:59:08] ⚠️  HTTP 404 for XNGSF - logo may not exist
+[2025-08-22 08:59:09] 📍 Processing STRNY (167/937)
+[2025-08-22 08:59:09] ⬇️  Downloading logo for STRNY...
+[2025-08-22 08:59:09] ⚠️  HTTP 404 for STRNY - logo may not exist
+[2025-08-22 08:59:10] 📍 Processing SHWGY (168/937)
+[2025-08-22 08:59:10] ⬇️  Downloading logo for SHWGY...
+[2025-08-22 08:59:11] ⚠️  HTTP 404 for SHWGY - logo may not exist
+[2025-08-22 08:59:11] 📍 Processing CMHHY (169/937)
+[2025-08-22 08:59:11] ⬇️  Downloading logo for CMHHY...
+[2025-08-22 08:59:12] ⚠️  HTTP 404 for CMHHY - logo may not exist
+[2025-08-22 08:59:12] 📍 Processing EENEF (170/937)
+[2025-08-22 08:59:12] ⬇️  Downloading logo for EENEF...
+[2025-08-22 08:59:13] ⚠️  HTTP 404 for EENEF - logo may not exist
+[2025-08-22 08:59:13] 📍 Processing GELYF (171/937)
+[2025-08-22 08:59:13] ⬇️  Downloading logo for GELYF...
+[2025-08-22 08:59:14] ⚠️  HTTP 404 for GELYF - logo may not exist
+[2025-08-22 08:59:14] 📍 Processing HNHIF (172/937)
+[2025-08-22 08:59:14] ⬇️  Downloading logo for HNHIF...
+[2025-08-22 08:59:15] ⚠️  HTTP 404 for HNHIF - logo may not exist
+[2025-08-22 08:59:15] 📍 Processing JDSPY (173/937)
+[2025-08-22 08:59:15] ⬇️  Downloading logo for JDSPY...
+[2025-08-22 08:59:16] ⚠️  HTTP 404 for JDSPY - logo may not exist
+[2025-08-22 08:59:16] 📍 Processing LSGOF (174/937)
+[2025-08-22 08:59:16] ⬇️  Downloading logo for LSGOF...
+[2025-08-22 08:59:17] ⚠️  HTTP 404 for LSGOF - logo may not exist
+[2025-08-22 08:59:17] 📍 Processing CRBJF (175/937)
+[2025-08-22 08:59:17] ⬇️  Downloading logo for CRBJF...
+[2025-08-22 08:59:18] ⚠️  HTTP 404 for CRBJF - logo may not exist
+[2025-08-22 08:59:18] 📍 Processing CXRMF (176/937)
+[2025-08-22 08:59:18] ⬇️  Downloading logo for CXRMF...
+[2025-08-22 08:59:19] ⚠️  HTTP 404 for CXRMF - logo may not exist
+[2025-08-22 08:59:19] 📍 Processing SBHMY (177/937)
+[2025-08-22 08:59:19] ⬇️  Downloading logo for SBHMY...
+[2025-08-22 08:59:20] ⚠️  HTTP 404 for SBHMY - logo may not exist
+[2025-08-22 08:59:20] 📍 Processing SNFRF (178/937)
+[2025-08-22 08:59:20] ⬇️  Downloading logo for SNFRF...
+[2025-08-22 08:59:21] ⚠️  HTTP 404 for SNFRF - logo may not exist
+[2025-08-22 08:59:21] 📍 Processing DAL (179/937)
+[2025-08-22 08:59:21] ⏭️  Skipping DAL - file already exists
+[2025-08-22 08:59:22] 📍 Processing AINPF (180/937)
+[2025-08-22 08:59:22] ⬇️  Downloading logo for AINPF...
+[2025-08-22 08:59:22] ⚠️  HTTP 404 for AINPF - logo may not exist
+[2025-08-22 08:59:23] 📍 Processing MTR (181/937)
+[2025-08-22 08:59:23] ⬇️  Downloading logo for MTR...
+[2025-08-22 08:59:24] ⚠️  HTTP 404 for MTR - logo may not exist
+[2025-08-22 08:59:24] 📍 Processing WCHNF (182/937)
+[2025-08-22 08:59:24] ⬇️  Downloading logo for WCHNF...
+[2025-08-22 08:59:25] ⚠️  HTTP 404 for WCHNF - logo may not exist
+[2025-08-22 08:59:25] 📍 Processing LONKF (183/937)
+[2025-08-22 08:59:25] ⬇️  Downloading logo for LONKF...
+[2025-08-22 08:59:25] ⚠️  HTTP 404 for LONKF - logo may not exist
+[2025-08-22 08:59:26] 📍 Processing EHITF (184/937)
+[2025-08-22 08:59:26] ⬇️  Downloading logo for EHITF...
+[2025-08-22 08:59:26] ⚠️  HTTP 404 for EHITF - logo may not exist
+[2025-08-22 08:59:27] 📍 Processing LGBOF (185/937)
+[2025-08-22 08:59:27] ⬇️  Downloading logo for LGBOF...
+[2025-08-22 08:59:27] ⚠️  HTTP 404 for LGBOF - logo may not exist
+[2025-08-22 08:59:28] 📍 Processing PHGPY (186/937)
+[2025-08-22 08:59:28] ⬇️  Downloading logo for PHGPY...
+[2025-08-22 08:59:28] ⚠️  HTTP 404 for PHGPY - logo may not exist
+[2025-08-22 08:59:29] 📍 Processing FOSUY (187/937)
+[2025-08-22 08:59:29] ⬇️  Downloading logo for FOSUY...
+[2025-08-22 08:59:29] ⚠️  HTTP 404 for FOSUY - logo may not exist
+[2025-08-22 08:59:30] 📍 Processing ACEIY (188/937)
+[2025-08-22 08:59:30] ⬇️  Downloading logo for ACEIY...
+[2025-08-22 08:59:30] ⚠️  HTTP 404 for ACEIY - logo may not exist
+[2025-08-22 08:59:31] 📍 Processing ACEYY (189/937)
+[2025-08-22 08:59:31] ⏭️  Skipping ACEYY - file already exists
+[2025-08-22 08:59:31] 📍 Processing CMPGF (190/937)
+[2025-08-22 08:59:31] ⬇️  Downloading logo for CMPGF...
+[2025-08-22 08:59:32] ⚠️  HTTP 404 for CMPGF - logo may not exist
+[2025-08-22 08:59:32] 📍 Processing FECHF (191/937)
+[2025-08-22 08:59:32] ⬇️  Downloading logo for FECHF...
+[2025-08-22 08:59:33] ⚠️  HTTP 404 for FECHF - logo may not exist
+[2025-08-22 08:59:33] 📍 Processing SNPRY (192/937)
+[2025-08-22 08:59:33] ⬇️  Downloading logo for SNPRY...
+[2025-08-22 08:59:34] ⚠️  HTTP 404 for SNPRY - logo may not exist
+[2025-08-22 08:59:34] 📍 Processing MDY (193/937)
+[2025-08-22 08:59:34] ⬇️  Downloading logo for MDY...
+[2025-08-22 08:59:35] ⚠️  HTTP 404 for MDY - logo may not exist
+[2025-08-22 08:59:36] 📍 Processing SPY (194/937)
+[2025-08-22 08:59:36] ⬇️  Downloading logo for SPY...
+[2025-08-22 08:59:36] ⚠️  HTTP 404 for SPY - logo may not exist
+[2025-08-22 08:59:37] 📍 Processing DCCPY (195/937)
+[2025-08-22 08:59:37] ⬇️  Downloading logo for DCCPY...
+[2025-08-22 08:59:37] ⚠️  HTTP 404 for DCCPY - logo may not exist
+[2025-08-22 08:59:38] 📍 Processing QQQ (196/937)
+[2025-08-22 08:59:38] ⬇️  Downloading logo for QQQ...
+[2025-08-22 08:59:38] ⚠️  HTTP 404 for QQQ - logo may not exist
+[2025-08-22 08:59:39] 📍 Processing TKPTF (197/937)
+[2025-08-22 08:59:39] ⬇️  Downloading logo for TKPTF...
+[2025-08-22 08:59:39] ⚠️  HTTP 404 for TKPTF - logo may not exist
+[2025-08-22 08:59:39] 📍 Processing WLMTF (198/937)
+[2025-08-22 08:59:39] ⬇️  Downloading logo for WLMTF...
+[2025-08-22 08:59:40] ⚠️  HTTP 404 for WLMTF - logo may not exist
+[2025-08-22 08:59:40] 📍 Processing CSPCY (199/937)
+[2025-08-22 08:59:40] ⬇️  Downloading logo for CSPCY...
+[2025-08-22 08:59:41] ⚠️  HTTP 404 for CSPCY - logo may not exist
+[2025-08-22 08:59:41] 📍 Processing KWHAF (200/937)
+[2025-08-22 08:59:41] ⬇️  Downloading logo for KWHAF...
+[2025-08-22 08:59:42] ⚠️  HTTP 404 for KWHAF - logo may not exist
+[2025-08-22 08:59:42] 📍 Processing MINXF (201/937)
+[2025-08-22 08:59:42] ⬇️  Downloading logo for MINXF...
+[2025-08-22 08:59:43] ⚠️  HTTP 404 for MINXF - logo may not exist
+[2025-08-22 08:59:44] 📍 Processing ZBH (202/937)
+[2025-08-22 08:59:44] ⏭️  Skipping ZBH - file already exists
+[2025-08-22 08:59:44] 📍 Processing VOD (203/937)
+[2025-08-22 08:59:44] ⬇️  Downloading logo for VOD...
+[2025-08-22 08:59:45] ⚠️  HTTP 404 for VOD - logo may not exist
+[2025-08-22 08:59:45] 📍 Processing ICGUF (204/937)
+[2025-08-22 08:59:45] ⬇️  Downloading logo for ICGUF...
+[2025-08-22 08:59:46] ⚠️  HTTP 404 for ICGUF - logo may not exist
+[2025-08-22 08:59:46] 📍 Processing CTJHY (205/937)
+[2025-08-22 08:59:46] ⬇️  Downloading logo for CTJHY...
+[2025-08-22 08:59:47] ⚠️  HTTP 404 for CTJHY - logo may not exist
+[2025-08-22 08:59:47] 📍 Processing GBGPF (206/937)
+[2025-08-22 08:59:47] ⬇️  Downloading logo for GBGPF...
+[2025-08-22 08:59:47] ⚠️  HTTP 404 for GBGPF - logo may not exist
+[2025-08-22 08:59:48] 📍 Processing TATYF (207/937)
+[2025-08-22 08:59:48] ⬇️  Downloading logo for TATYF...
+[2025-08-22 08:59:49] ⚠️  HTTP 404 for TATYF - logo may not exist
+[2025-08-22 08:59:49] 📍 Processing UUGWF (208/937)
+[2025-08-22 08:59:49] ⬇️  Downloading logo for UUGWF...
+[2025-08-22 08:59:50] ⚠️  HTTP 404 for UUGWF - logo may not exist
+[2025-08-22 08:59:50] 📍 Processing CZAVF (209/937)
+[2025-08-22 08:59:50] ⬇️  Downloading logo for CZAVF...
+[2025-08-22 08:59:51] ⚠️  HTTP 404 for CZAVF - logo may not exist
+[2025-08-22 08:59:51] 📍 Processing BMRPF (210/937)
+[2025-08-22 08:59:51] ⬇️  Downloading logo for BMRPF...
+[2025-08-22 08:59:52] ⚠️  HTTP 404 for BMRPF - logo may not exist
+[2025-08-22 08:59:52] 📍 Processing BTAFF (211/937)
+[2025-08-22 08:59:52] ⏭️  Skipping BTAFF - file already exists
+[2025-08-22 08:59:53] 📍 Processing BCENF (212/937)
+[2025-08-22 08:59:53] ⬇️  Downloading logo for BCENF...
+[2025-08-22 08:59:53] ⚠️  HTTP 404 for BCENF - logo may not exist
+[2025-08-22 08:59:54] 📍 Processing CAOVY (213/937)
+[2025-08-22 08:59:54] ⬇️  Downloading logo for CAOVY...
+[2025-08-22 08:59:54] ⚠️  HTTP 404 for CAOVY - logo may not exist
+[2025-08-22 08:59:55] 📍 Processing MSIF (214/937)
+[2025-08-22 08:59:55] ⬇️  Downloading logo for MSIF...
+[2025-08-22 08:59:55] ⚠️  HTTP 404 for MSIF - logo may not exist
+[2025-08-22 08:59:56] 📍 Processing NHC (215/937)
+[2025-08-22 08:59:56] ⏭️  Skipping NHC - file already exists
+[2025-08-22 08:59:56] 📍 Processing TIMB (216/937)
+[2025-08-22 08:59:56] ⬇️  Downloading logo for TIMB...
+[2025-08-22 08:59:57] ⚠️  HTTP 404 for TIMB - logo may not exist
+[2025-08-22 08:59:58] 📍 Processing XYIGF (217/937)
+[2025-08-22 08:59:58] ⬇️  Downloading logo for XYIGF...
+[2025-08-22 08:59:58] ⚠️  HTTP 404 for XYIGF - logo may not exist
+[2025-08-22 08:59:59] 📍 Processing SMSEY (218/937)
+[2025-08-22 08:59:59] ⬇️  Downloading logo for SMSEY...
+[2025-08-22 08:59:59] ⚠️  HTTP 404 for SMSEY - logo may not exist
+[2025-08-22 09:00:00] 📍 Processing HPIFF (219/937)
+[2025-08-22 09:00:00] ⬇️  Downloading logo for HPIFF...
+[2025-08-22 09:00:00] ⚠️  HTTP 404 for HPIFF - logo may not exist
+[2025-08-22 09:00:01] 📍 Processing NYMT (220/937)
+[2025-08-22 09:00:01] ⬇️  Downloading logo for NYMT...
+[2025-08-22 09:00:01] ⚠️  HTTP 404 for NYMT - logo may not exist
+[2025-08-22 09:00:02] 📍 Processing CGNMF (221/937)
+[2025-08-22 09:00:02] ⬇️  Downloading logo for CGNMF...
+[2025-08-22 09:00:02] ⚠️  HTTP 404 for CGNMF - logo may not exist
+[2025-08-22 09:00:03] 📍 Processing AUHEF (222/937)
+[2025-08-22 09:00:03] ⬇️  Downloading logo for AUHEF...
+[2025-08-22 09:00:03] ⚠️  HTTP 404 for AUHEF - logo may not exist
+[2025-08-22 09:00:04] 📍 Processing BGS (223/937)
+[2025-08-22 09:00:04] ⏭️  Skipping BGS - file already exists
+[2025-08-22 09:00:04] 📍 Processing CVGW (224/937)
+[2025-08-22 09:00:04] ⬇️  Downloading logo for CVGW...
+[2025-08-22 09:00:05] ⚠️  HTTP 404 for CVGW - logo may not exist
+[2025-08-22 09:00:06] 📍 Processing EFCPRA (225/937)
+[2025-08-22 09:00:06] ⬇️  Downloading logo for EFCPRA...
+[2025-08-22 09:00:06] ⚠️  HTTP 404 for EFCPRA - logo may not exist
+[2025-08-22 09:00:07] 📍 Processing EFCPRB (226/937)
+[2025-08-22 09:00:07] ⬇️  Downloading logo for EFCPRB...
+[2025-08-22 09:00:07] ⚠️  HTTP 404 for EFCPRB - logo may not exist
+[2025-08-22 09:00:08] 📍 Processing EFCPRC (227/937)
+[2025-08-22 09:00:08] ⬇️  Downloading logo for EFCPRC...
+[2025-08-22 09:00:08] ⚠️  HTTP 404 for EFCPRC - logo may not exist
+[2025-08-22 09:00:09] 📍 Processing HGSFF (228/937)
+[2025-08-22 09:00:09] ⬇️  Downloading logo for HGSFF...
+[2025-08-22 09:00:09] ⚠️  HTTP 404 for HGSFF - logo may not exist
+[2025-08-22 09:00:10] 📍 Processing HSXUF (229/937)
+[2025-08-22 09:00:10] ⬇️  Downloading logo for HSXUF...
+[2025-08-22 09:00:10] ⚠️  HTTP 404 for HSXUF - logo may not exist
+[2025-08-22 09:00:11] 📍 Processing LIFZF (230/937)
+[2025-08-22 09:00:11] ⬇️  Downloading logo for LIFZF...
+[2025-08-22 09:00:11] ⚠️  HTTP 404 for LIFZF - logo may not exist
+[2025-08-22 09:00:12] 📍 Processing ORC (231/937)
+[2025-08-22 09:00:12] ⬇️  Downloading logo for ORC...
+[2025-08-22 09:00:13] ⚠️  HTTP 404 for ORC - logo may not exist
+[2025-08-22 09:00:13] 📍 Processing TCANF (232/937)
+[2025-08-22 09:00:13] ⬇️  Downloading logo for TCANF...
+[2025-08-22 09:00:14] ⚠️  HTTP 404 for TCANF - logo may not exist
+[2025-08-22 09:00:14] 📍 Processing TRPPF (233/937)
+[2025-08-22 09:00:14] ⬇️  Downloading logo for TRPPF...
+[2025-08-22 09:00:15] ⚠️  HTTP 404 for TRPPF - logo may not exist
+[2025-08-22 09:00:15] 📍 Processing TRPRF (234/937)
+[2025-08-22 09:00:15] ⬇️  Downloading logo for TRPRF...
+[2025-08-22 09:00:16] ⚠️  HTTP 404 for TRPRF - logo may not exist
+[2025-08-22 09:00:16] 📍 Processing ACRPRC (235/937)
+[2025-08-22 09:00:16] ⬇️  Downloading logo for ACRPRC...
+[2025-08-22 09:00:17] ⚠️  HTTP 404 for ACRPRC - logo may not exist
+[2025-08-22 09:00:17] 📍 Processing AMNF (236/937)
+[2025-08-22 09:00:17] ⬇️  Downloading logo for AMNF...
+[2025-08-22 09:00:18] ⚠️  HTTP 404 for AMNF - logo may not exist
+[2025-08-22 09:00:18] 📍 Processing ITOEF (237/937)
+[2025-08-22 09:00:18] ⬇️  Downloading logo for ITOEF...
+[2025-08-22 09:00:19] ⚠️  HTTP 404 for ITOEF - logo may not exist
+[2025-08-22 09:00:19] 📍 Processing ITONF (238/937)
+[2025-08-22 09:00:19] ⬇️  Downloading logo for ITONF...
+[2025-08-22 09:00:20] ⚠️  HTTP 404 for ITONF - logo may not exist
+[2025-08-22 09:00:21] 📍 Processing YAMNF (239/937)
+[2025-08-22 09:00:21] ⬇️  Downloading logo for YAMNF...
+[2025-08-22 09:00:21] ⚠️  HTTP 404 for YAMNF - logo may not exist
+[2025-08-22 09:00:22] 📍 Processing BJWTF (240/937)
+[2025-08-22 09:00:22] ⬇️  Downloading logo for BJWTF...
+[2025-08-22 09:00:22] ⚠️  HTTP 404 for BJWTF - logo may not exist
+[2025-08-22 09:00:23] 📍 Processing GUOSF (241/937)
+[2025-08-22 09:00:23] ⬇️  Downloading logo for GUOSF...
+[2025-08-22 09:00:23] ⚠️  HTTP 404 for GUOSF - logo may not exist
+[2025-08-22 09:00:24] 📍 Processing PSMMY (242/937)
+[2025-08-22 09:00:24] ⬇️  Downloading logo for PSMMY...
+[2025-08-22 09:00:24] ⚠️  HTTP 404 for PSMMY - logo may not exist
+[2025-08-22 09:00:25] 📍 Processing PAEKY (243/937)
+[2025-08-22 09:00:25] ⬇️  Downloading logo for PAEKY...
+[2025-08-22 09:00:25] ⚠️  HTTP 404 for PAEKY - logo may not exist
+[2025-08-22 09:00:26] 📍 Processing PTCAY (244/937)
+[2025-08-22 09:00:26] ⬇️  Downloading logo for PTCAY...
+[2025-08-22 09:00:26] ⚠️  HTTP 404 for PTCAY - logo may not exist
+[2025-08-22 09:00:27] 📍 Processing TBNGY (245/937)
+[2025-08-22 09:00:27] ⬇️  Downloading logo for TBNGY...
+[2025-08-22 09:00:27] ⚠️  HTTP 404 for TBNGY - logo may not exist
+[2025-08-22 09:00:28] 📍 Processing ZSHGY (246/937)
+[2025-08-22 09:00:28] ⬇️  Downloading logo for ZSHGY...
+[2025-08-22 09:00:29] ⚠️  HTTP 404 for ZSHGY - logo may not exist
+[2025-08-22 09:00:29] 📍 Processing CM (247/937)
+[2025-08-22 09:00:29] ⬇️  Downloading logo for CM...
+[2025-08-22 09:00:30] ⚠️  HTTP 404 for CM - logo may not exist
+[2025-08-22 09:00:30] 📍 Processing CP (248/937)
+[2025-08-22 09:00:30] ⬇️  Downloading logo for CP...
+[2025-08-22 09:00:31] ⚠️  HTTP 404 for CP - logo may not exist
+[2025-08-22 09:00:31] 📍 Processing GSBD (249/937)
+[2025-08-22 09:00:31] ⏭️  Skipping GSBD - file already exists
+[2025-08-22 09:00:32] 📍 Processing NCDL (250/937)
+[2025-08-22 09:00:32] ⬇️  Downloading logo for NCDL...
+[2025-08-22 09:00:32] ⚠️  HTTP 404 for NCDL - logo may not exist
+[2025-08-22 09:00:33] 📍 Processing TJSCF (251/937)
+[2025-08-22 09:00:33] ⬇️  Downloading logo for TJSCF...
+[2025-08-22 09:00:33] ⚠️  HTTP 404 for TJSCF - logo may not exist
+[2025-08-22 09:00:34] 📍 Processing TNET (252/937)
+[2025-08-22 09:00:34] ⏭️  Skipping TNET - file already exists
+[2025-08-22 09:00:34] 📍 Processing PRIF (253/937)
+[2025-08-22 09:00:34] ⬇️  Downloading logo for PRIF...
+[2025-08-22 09:00:35] ⚠️  HTTP 404 for PRIF - logo may not exist
+[2025-08-22 09:00:35] 📍 Processing IBDSF (254/937)
+[2025-08-22 09:00:35] ⬇️  Downloading logo for IBDSF...
+[2025-08-22 09:00:36] ⚠️  HTTP 404 for IBDSF - logo may not exist
+[2025-08-22 09:00:36] 📍 Processing C (255/937)
+[2025-08-22 09:00:36] ⏭️  Skipping C - file already exists
+[2025-08-22 09:00:37] 📍 Processing CSMYF (256/937)
+[2025-08-22 09:00:37] ⬇️  Downloading logo for CSMYF...
+[2025-08-22 09:00:37] ⚠️  HTTP 404 for CSMYF - logo may not exist
+[2025-08-22 09:00:38] 📍 Processing CGASY (257/937)
+[2025-08-22 09:00:38] ⬇️  Downloading logo for CGASY...
+[2025-08-22 09:00:38] ⚠️  HTTP 404 for CGASY - logo may not exist
+[2025-08-22 09:00:39] 📍 Processing KLYCY (258/937)
+[2025-08-22 09:00:39] ⬇️  Downloading logo for KLYCY...
+[2025-08-22 09:00:39] ⚠️  HTTP 404 for KLYCY - logo may not exist
+[2025-08-22 09:00:40] 📍 Processing FIRRY (259/937)
+[2025-08-22 09:00:40] ⬇️  Downloading logo for FIRRY...
+[2025-08-22 09:00:40] ⚠️  HTTP 404 for FIRRY - logo may not exist
+[2025-08-22 09:00:41] 📍 Processing BTLCY (260/937)
+[2025-08-22 09:00:41] ⬇️  Downloading logo for BTLCY...
+[2025-08-22 09:00:42] ⚠️  HTTP 404 for BTLCY - logo may not exist
+[2025-08-22 09:00:42] 📍 Processing LKREF (261/937)
+[2025-08-22 09:00:42] ⬇️  Downloading logo for LKREF...
+[2025-08-22 09:00:43] ⚠️  HTTP 404 for LKREF - logo may not exist
+[2025-08-22 09:00:43] 📍 Processing MITFF (262/937)
+[2025-08-22 09:00:43] ⬇️  Downloading logo for MITFF...
+[2025-08-22 09:00:44] ⚠️  HTTP 404 for MITFF - logo may not exist
+[2025-08-22 09:00:44] 📍 Processing HLICF (263/937)
+[2025-08-22 09:00:44] ⬇️  Downloading logo for HLICF...
+[2025-08-22 09:00:45] ⚠️  HTTP 404 for HLICF - logo may not exist
+[2025-08-22 09:00:45] 📍 Processing DDS (264/937)
+[2025-08-22 09:00:45] ⏭️  Skipping DDS - file already exists
+[2025-08-22 09:00:46] 📍 Processing CHYFF (265/937)
+[2025-08-22 09:00:46] ⬇️  Downloading logo for CHYFF...
+[2025-08-22 09:00:46] ⚠️  HTTP 404 for CHYFF - logo may not exist
+[2025-08-22 09:00:47] 📍 Processing CHYYY (266/937)
+[2025-08-22 09:00:47] ⬇️  Downloading logo for CHYYY...
+[2025-08-22 09:00:47] ⚠️  HTTP 404 for CHYYY - logo may not exist
+[2025-08-22 09:00:48] 📍 Processing ABM (267/937)
+[2025-08-22 09:00:48] ⏭️  Skipping ABM - file already exists
+[2025-08-22 09:00:48] 📍 Processing CPB (268/937)
+[2025-08-22 09:00:48] ⏭️  Skipping CPB - file already exists
+[2025-08-22 09:00:49] 📍 Processing JESCF (269/937)
+[2025-08-22 09:00:49] ⬇️  Downloading logo for JESCF...
+[2025-08-22 09:00:49] ⚠️  HTTP 404 for JESCF - logo may not exist
+[2025-08-22 09:00:50] 📍 Processing LSMNF (270/937)
+[2025-08-22 09:00:50] ⬇️  Downloading logo for LSMNF...
+[2025-08-22 09:00:50] ⚠️  HTTP 404 for LSMNF - logo may not exist
+[2025-08-22 09:00:51] 📍 Processing PPLFY (271/937)
+[2025-08-22 09:00:51] ⬇️  Downloading logo for PPLFY...
+[2025-08-22 09:00:51] ⚠️  HTTP 404 for PPLFY - logo may not exist
+[2025-08-22 09:00:52] 📍 Processing UVV (272/937)
+[2025-08-22 09:00:52] ⏭️  Skipping UVV - file already exists
+[2025-08-22 09:00:52] 📍 Processing BACPRO (273/937)
+[2025-08-22 09:00:52] ⬇️  Downloading logo for BACPRO...
+[2025-08-22 09:00:53] ⚠️  HTTP 404 for BACPRO - logo may not exist
+[2025-08-22 09:00:53] 📍 Processing BACPRP (274/937)
+[2025-08-22 09:00:53] ⬇️  Downloading logo for BACPRP...
+[2025-08-22 09:00:54] ⚠️  HTTP 404 for BACPRP - logo may not exist
+[2025-08-22 09:00:55] 📍 Processing NPB (275/937)
+[2025-08-22 09:00:55] ⬇️  Downloading logo for NPB...
+[2025-08-22 09:00:55] ⚠️  HTTP 404 for NPB - logo may not exist
+[2025-08-22 09:00:56] 📍 Processing OSGCF (276/937)
+[2025-08-22 09:00:56] ⬇️  Downloading logo for OSGCF...
+[2025-08-22 09:00:56] ⚠️  HTTP 404 for OSGCF - logo may not exist
+[2025-08-22 09:00:57] 📍 Processing BYDDF (277/937)
+[2025-08-22 09:00:57] ⏭️  Skipping BYDDF - file already exists
+[2025-08-22 09:00:57] 📍 Processing BYDIF (278/937)
+[2025-08-22 09:00:57] ⬇️  Downloading logo for BYDIF...
+[2025-08-22 09:00:58] ⚠️  HTTP 404 for BYDIF - logo may not exist
+[2025-08-22 09:00:58] 📍 Processing ALORY (279/937)
+[2025-08-22 09:00:58] ⬇️  Downloading logo for ALORY...
+[2025-08-22 09:00:59] ⚠️  HTTP 404 for ALORY - logo may not exist
+[2025-08-22 09:00:59] 📍 Processing BYDGF (280/937)
+[2025-08-22 09:00:59] ⬇️  Downloading logo for BYDGF...
+[2025-08-22 09:01:00] ⚠️  HTTP 404 for BYDGF - logo may not exist
+[2025-08-22 09:01:00] 📍 Processing HCBN (281/937)
+[2025-08-22 09:01:00] ⬇️  Downloading logo for HCBN...
+[2025-08-22 09:01:01] ⚠️  HTTP 404 for HCBN - logo may not exist
+[2025-08-22 09:01:01] 📍 Processing BNS (282/937)
+[2025-08-22 09:01:01] ⏭️  Skipping BNS - file already exists
+[2025-08-22 09:01:02] 📍 Processing TGBMF (283/937)
+[2025-08-22 09:01:02] ⬇️  Downloading logo for TGBMF...
+[2025-08-22 09:01:02] ⚠️  HTTP 404 for TGBMF - logo may not exist
+[2025-08-22 09:01:03] 📍 Processing TWO (284/937)
+[2025-08-22 09:01:03] ⬇️  Downloading logo for TWO...
+[2025-08-22 09:01:03] ⚠️  HTTP 404 for TWO - logo may not exist
+[2025-08-22 09:01:04] 📍 Processing ZGN (285/937)
+[2025-08-22 09:01:04] ⬇️  Downloading logo for ZGN...
+[2025-08-22 09:01:04] ⚠️  HTTP 404 for ZGN - logo may not exist
+[2025-08-22 09:01:05] 📍 Processing PTKWF (286/937)
+[2025-08-22 09:01:05] ⬇️  Downloading logo for PTKWF...
+[2025-08-22 09:01:05] ⚠️  HTTP 404 for PTKWF - logo may not exist
+[2025-08-22 09:01:06] 📍 Processing SLVM (287/937)
+[2025-08-22 09:01:06] ⬇️  Downloading logo for SLVM...
+[2025-08-22 09:01:06] ⚠️  HTTP 404 for SLVM - logo may not exist
+[2025-08-22 09:01:07] 📍 Processing TSETF (288/937)
+[2025-08-22 09:01:07] ⬇️  Downloading logo for TSETF...
+[2025-08-22 09:01:07] ⚠️  HTTP 404 for TSETF - logo may not exist
+[2025-08-22 09:01:08] 📍 Processing KLKBF (289/937)
+[2025-08-22 09:01:08] ⬇️  Downloading logo for KLKBF...
+[2025-08-22 09:01:08] ⚠️  HTTP 404 for KLKBF - logo may not exist
+[2025-08-22 09:01:09] 📍 Processing NWKHY (290/937)
+[2025-08-22 09:01:09] ⬇️  Downloading logo for NWKHY...
+[2025-08-22 09:01:09] ⚠️  HTTP 404 for NWKHY - logo may not exist
+[2025-08-22 09:01:10] 📍 Processing BRSL (291/937)
+[2025-08-22 09:01:10] ⬇️  Downloading logo for BRSL...
+[2025-08-22 09:01:11] ⚠️  HTTP 404 for BRSL - logo may not exist
+[2025-08-22 09:01:11] 📍 Processing BKE (292/937)
+[2025-08-22 09:01:11] ⏭️  Skipping BKE - file already exists
+[2025-08-22 09:01:12] 📍 Processing CBAF (293/937)
+[2025-08-22 09:01:12] ⬇️  Downloading logo for CBAF...
+[2025-08-22 09:01:12] ⚠️  HTTP 404 for CBAF - logo may not exist
+[2025-08-22 09:01:13] 📍 Processing SBR (294/937)
+[2025-08-22 09:01:13] ⬇️  Downloading logo for SBR...
+[2025-08-22 09:01:13] ⚠️  HTTP 404 for SBR - logo may not exist
+[2025-08-22 09:01:14] 📍 Processing ALG (295/937)
+[2025-08-22 09:01:14] ⬇️  Downloading logo for ALG...
+[2025-08-22 09:01:14] ⚠️  HTTP 404 for ALG - logo may not exist
+[2025-08-22 09:01:15] 📍 Processing DAITF (296/937)
+[2025-08-22 09:01:15] ⬇️  Downloading logo for DAITF...
+[2025-08-22 09:01:15] ⚠️  HTTP 404 for DAITF - logo may not exist
+[2025-08-22 09:01:16] 📍 Processing OCLCF (297/937)
+[2025-08-22 09:01:16] ⬇️  Downloading logo for OCLCF...
+[2025-08-22 09:01:16] ⚠️  HTTP 404 for OCLCF - logo may not exist
+[2025-08-22 09:01:17] 📍 Processing JMPLF (298/937)
+[2025-08-22 09:01:17] ⬇️  Downloading logo for JMPLF...
+[2025-08-22 09:01:17] ⚠️  HTTP 404 for JMPLF - logo may not exist
+[2025-08-22 09:01:18] 📍 Processing GUONF (299/937)
+[2025-08-22 09:01:18] ⬇️  Downloading logo for GUONF...
+[2025-08-22 09:01:18] ⚠️  HTTP 404 for GUONF - logo may not exist
+[2025-08-22 09:01:19] 📍 Processing TJIPY (300/937)
+[2025-08-22 09:01:19] ⬇️  Downloading logo for TJIPY...
+[2025-08-22 09:01:20] ⚠️  HTTP 404 for TJIPY - logo may not exist
+[2025-08-22 09:01:20] 📍 Processing CGMBF (301/937)
+[2025-08-22 09:01:20] ⬇️  Downloading logo for CGMBF...
+[2025-08-22 09:01:21] ⚠️  HTTP 404 for CGMBF - logo may not exist
+[2025-08-22 09:01:21] 📍 Processing LGPS (302/937)
+[2025-08-22 09:01:21] ⬇️  Downloading logo for LGPS...
+[2025-08-22 09:01:22] ⚠️  HTTP 404 for LGPS - logo may not exist
+[2025-08-22 09:01:22] 📍 Processing PNC (303/937)
+[2025-08-22 09:01:22] ⏭️  Skipping PNC - file already exists
+[2025-08-22 09:01:23] 📍 Processing BRJYF (304/937)
+[2025-08-22 09:01:23] ⬇️  Downloading logo for BRJYF...
+[2025-08-22 09:01:23] ⚠️  HTTP 404 for BRJYF - logo may not exist
+[2025-08-22 09:01:24] 📍 Processing DTTLY (305/937)
+[2025-08-22 09:01:24] ⬇️  Downloading logo for DTTLY...
+[2025-08-22 09:01:24] ⚠️  HTTP 404 for DTTLY - logo may not exist
+[2025-08-22 09:01:25] 📍 Processing HSHP (306/937)
+[2025-08-22 09:01:25] ⬇️  Downloading logo for HSHP...
+[2025-08-22 09:01:25] ⚠️  HTTP 404 for HSHP - logo may not exist
+[2025-08-22 09:01:26] 📍 Processing CNXC (307/937)
+[2025-08-22 09:01:26] ⬇️  Downloading logo for CNXC...
+[2025-08-22 09:01:26] ⚠️  HTTP 404 for CNXC - logo may not exist
+[2025-08-22 09:01:27] 📍 Processing LKFN (308/937)
+[2025-08-22 09:01:27] ⬇️  Downloading logo for LKFN...
+[2025-08-22 09:01:27] ⚠️  HTTP 404 for LKFN - logo may not exist
+[2025-08-22 09:01:28] 📍 Processing UNIB (309/937)
+[2025-08-22 09:01:28] ⬇️  Downloading logo for UNIB...
+[2025-08-22 09:01:29] ⚠️  HTTP 404 for UNIB - logo may not exist
+[2025-08-22 09:01:29] 📍 Processing GGAL (310/937)
+[2025-08-22 09:01:29] ⬇️  Downloading logo for GGAL...
+[2025-08-22 09:01:30] ⚠️  HTTP 404 for GGAL - logo may not exist
+[2025-08-22 09:01:30] 📍 Processing PBYEF (311/937)
+[2025-08-22 09:01:30] ⬇️  Downloading logo for PBYEF...
+[2025-08-22 09:01:31] ⚠️  HTTP 404 for PBYEF - logo may not exist
+[2025-08-22 09:01:31] 📍 Processing PEYEF (312/937)
+[2025-08-22 09:01:31] ⬇️  Downloading logo for PEYEF...
+[2025-08-22 09:01:32] ⚠️  HTTP 404 for PEYEF - logo may not exist
+[2025-08-22 09:01:32] 📍 Processing PRMAF (313/937)
+[2025-08-22 09:01:32] ⬇️  Downloading logo for PRMAF...
+[2025-08-22 09:01:33] ⚠️  HTTP 404 for PRMAF - logo may not exist
+[2025-08-22 09:01:33] 📍 Processing PSUCF (314/937)
+[2025-08-22 09:01:33] ⬇️  Downloading logo for PSUCF...
+[2025-08-22 09:01:34] ⚠️  HTTP 404 for PSUCF - logo may not exist
+[2025-08-22 09:01:34] 📍 Processing TLSNF (315/937)
+[2025-08-22 09:01:34] ⬇️  Downloading logo for TLSNF...
+[2025-08-22 09:01:35] ⚠️  HTTP 404 for TLSNF - logo may not exist
+[2025-08-22 09:01:35] 📍 Processing NOK (316/937)
+[2025-08-22 09:01:35] ⬇️  Downloading logo for NOK...
+[2025-08-22 09:01:36] ⚠️  HTTP 404 for NOK - logo may not exist
+[2025-08-22 09:01:36] 📍 Processing FMBRY (317/937)
+[2025-08-22 09:01:36] ⬇️  Downloading logo for FMBRY...
+[2025-08-22 09:01:37] ⚠️  HTTP 404 for FMBRY - logo may not exist
+[2025-08-22 09:01:37] 📍 Processing ASKLF (318/937)
+[2025-08-22 09:01:37] ⬇️  Downloading logo for ASKLF...
+[2025-08-22 09:01:38] ⚠️  HTTP 404 for ASKLF - logo may not exist
+[2025-08-22 09:01:38] 📍 Processing KWPCF (319/937)
+[2025-08-22 09:01:38] ⬇️  Downloading logo for KWPCF...
+[2025-08-22 09:01:39] ⚠️  HTTP 404 for KWPCF - logo may not exist
+[2025-08-22 09:01:39] 📍 Processing MGCLY (320/937)
+[2025-08-22 09:01:39] ⬇️  Downloading logo for MGCLY...
+[2025-08-22 09:01:40] ⚠️  HTTP 404 for MGCLY - logo may not exist
+[2025-08-22 09:01:40] 📍 Processing FERG (321/937)
+[2025-08-22 09:01:40] ⬇️  Downloading logo for FERG...
+[2025-08-22 09:01:41] ⚠️  HTTP 404 for FERG - logo may not exist
+[2025-08-22 09:01:41] 📍 Processing TATYY (322/937)
+[2025-08-22 09:01:41] ⬇️  Downloading logo for TATYY...
+[2025-08-22 09:01:42] ⚠️  HTTP 404 for TATYY - logo may not exist
+[2025-08-22 09:01:42] 📍 Processing BTI (323/937)
+[2025-08-22 09:01:42] ⬇️  Downloading logo for BTI...
+[2025-08-22 09:01:43] ⚠️  HTTP 404 for BTI - logo may not exist
+[2025-08-22 09:01:44] 📍 Processing YNAJF (324/937)
+[2025-08-22 09:01:44] ⬇️  Downloading logo for YNAJF...
+[2025-08-22 09:01:44] ⚠️  HTTP 404 for YNAJF - logo may not exist
+[2025-08-22 09:01:45] 📍 Processing ASX (325/937)
+[2025-08-22 09:01:45] ⬇️  Downloading logo for ASX...
+[2025-08-22 09:01:45] ⚠️  HTTP 404 for ASX - logo may not exist
+[2025-08-22 09:01:46] 📍 Processing NECB (326/937)
+[2025-08-22 09:01:46] ⬇️  Downloading logo for NECB...
+[2025-08-22 09:01:46] ⚠️  HTTP 404 for NECB - logo may not exist
+[2025-08-22 09:01:47] 📍 Processing PIFFY (327/937)
+[2025-08-22 09:01:47] ⬇️  Downloading logo for PIFFY...
+[2025-08-22 09:01:47] ⚠️  HTTP 404 for PIFFY - logo may not exist
+[2025-08-22 09:01:48] 📍 Processing PHBBF (328/937)
+[2025-08-22 09:01:48] ⬇️  Downloading logo for PHBBF...
+[2025-08-22 09:01:48] ⚠️  HTTP 404 for PHBBF - logo may not exist
+[2025-08-22 09:01:49] 📍 Processing CTIHY (329/937)
+[2025-08-22 09:01:49] ⬇️  Downloading logo for CTIHY...
+[2025-08-22 09:01:49] ⚠️  HTTP 404 for CTIHY - logo may not exist
+[2025-08-22 09:01:50] 📍 Processing KKOYY (330/937)
+[2025-08-22 09:01:50] ⬇️  Downloading logo for KKOYY...
+[2025-08-22 09:01:50] ⚠️  HTTP 404 for KKOYY - logo may not exist
+[2025-08-22 09:01:51] 📍 Processing LXFR (331/937)
+[2025-08-22 09:01:51] ⬇️  Downloading logo for LXFR...
+[2025-08-22 09:01:51] ⚠️  HTTP 404 for LXFR - logo may not exist
+[2025-08-22 09:01:52] 📍 Processing CMRE (332/937)
+[2025-08-22 09:01:52] ⏭️  Skipping CMRE - file already exists
+[2025-08-22 09:01:52] 📍 Processing GGG (333/937)
+[2025-08-22 09:01:52] ⏭️  Skipping GGG - file already exists
+[2025-08-22 09:01:53] 📍 Processing SUEZY (334/937)
+[2025-08-22 09:01:53] ⬇️  Downloading logo for SUEZY...
+[2025-08-22 09:01:53] ⚠️  HTTP 404 for SUEZY - logo may not exist
+[2025-08-22 09:01:54] 📍 Processing ENLAY (335/937)
+[2025-08-22 09:01:54] ⬇️  Downloading logo for ENLAY...
+[2025-08-22 09:01:54] ⚠️  HTTP 404 for ENLAY - logo may not exist
+[2025-08-22 09:01:55] 📍 Processing AM (336/937)
+[2025-08-22 09:01:55] ⏭️  Skipping AM - file already exists
+[2025-08-22 09:01:55] 📍 Processing MORIF (337/937)
+[2025-08-22 09:01:55] ⬇️  Downloading logo for MORIF...
+[2025-08-22 09:01:56] ⚠️  HTTP 404 for MORIF - logo may not exist
+[2025-08-22 09:01:56] 📍 Processing CARCY (338/937)
+[2025-08-22 09:01:56] ⬇️  Downloading logo for CARCY...
+[2025-08-22 09:01:57] ⚠️  HTTP 404 for CARCY - logo may not exist
+[2025-08-22 09:01:57] 📍 Processing CRPJY (339/937)
+[2025-08-22 09:01:57] ⬇️  Downloading logo for CRPJY...
+[2025-08-22 09:01:58] ⚠️  HTTP 404 for CRPJY - logo may not exist
+[2025-08-22 09:01:59] 📍 Processing CALEF (340/937)
+[2025-08-22 09:01:59] ⬇️  Downloading logo for CALEF...
+[2025-08-22 09:01:59] ⚠️  HTTP 404 for CALEF - logo may not exist
+[2025-08-22 09:02:00] 📍 Processing FUISY (341/937)
+[2025-08-22 09:02:00] ⬇️  Downloading logo for FUISY...
+[2025-08-22 09:02:00] ⚠️  HTTP 404 for FUISY - logo may not exist
+[2025-08-22 09:02:01] 📍 Processing FUIZF (342/937)
+[2025-08-22 09:02:01] ⬇️  Downloading logo for FUIZF...
+[2025-08-22 09:02:01] ⚠️  HTTP 404 for FUIZF - logo may not exist
+[2025-08-22 09:02:02] 📍 Processing HNHAY (343/937)
+[2025-08-22 09:02:02] ⬇️  Downloading logo for HNHAY...
+[2025-08-22 09:02:02] ⚠️  HTTP 404 for HNHAY - logo may not exist
+[2025-08-22 09:02:03] 📍 Processing HNHPF (344/937)
+[2025-08-22 09:02:03] ⬇️  Downloading logo for HNHPF...
+[2025-08-22 09:02:03] ⚠️  HTTP 404 for HNHPF - logo may not exist
+[2025-08-22 09:02:03] 📍 Processing SFSHF (345/937)
+[2025-08-22 09:02:03] ⬇️  Downloading logo for SFSHF...
+[2025-08-22 09:02:04] ⚠️  HTTP 404 for SFSHF - logo may not exist
+[2025-08-22 09:02:04] 📍 Processing MAWHY (346/937)
+[2025-08-22 09:02:04] ⬇️  Downloading logo for MAWHY...
+[2025-08-22 09:02:05] ⚠️  HTTP 404 for MAWHY - logo may not exist
+[2025-08-22 09:02:06] 📍 Processing PIFMY (347/937)
+[2025-08-22 09:02:06] ⬇️  Downloading logo for PIFMY...
+[2025-08-22 09:02:06] ⚠️  HTTP 404 for PIFMY - logo may not exist
+[2025-08-22 09:02:06] 📍 Processing GDNGY (348/937)
+[2025-08-22 09:02:06] ⬇️  Downloading logo for GDNGY...
+[2025-08-22 09:02:07] ⚠️  HTTP 404 for GDNGY - logo may not exist
+[2025-08-22 09:02:07] 📍 Processing KAI (349/937)
+[2025-08-22 09:02:07] ⬇️  Downloading logo for KAI...
+[2025-08-22 09:02:08] ⚠️  HTTP 404 for KAI - logo may not exist
+[2025-08-22 09:02:08] 📍 Processing EMSBF (350/937)
+[2025-08-22 09:02:08] ⬇️  Downloading logo for EMSBF...
+[2025-08-22 09:02:09] ⚠️  HTTP 404 for EMSBF - logo may not exist
+[2025-08-22 09:02:09] 📍 Processing JPEQF (351/937)
+[2025-08-22 09:02:09] ⬇️  Downloading logo for JPEQF...
+[2025-08-22 09:02:10] ⚠️  HTTP 404 for JPEQF - logo may not exist
+[2025-08-22 09:02:11] 📍 Processing JPGEF (352/937)
+[2025-08-22 09:02:11] ⬇️  Downloading logo for JPGEF...
+[2025-08-22 09:02:11] ⚠️  HTTP 404 for JPGEF - logo may not exist
+[2025-08-22 09:02:11] 📍 Processing JPUHF (353/937)
+[2025-08-22 09:02:11] ⬇️  Downloading logo for JPUHF...
+[2025-08-22 09:02:12] ⚠️  HTTP 404 for JPUHF - logo may not exist
+[2025-08-22 09:02:12] 📍 Processing JPUQF (354/937)
+[2025-08-22 09:02:12] ⬇️  Downloading logo for JPUQF...
+[2025-08-22 09:02:13] ⚠️  HTTP 404 for JPUQF - logo may not exist
+[2025-08-22 09:02:13] 📍 Processing PLRRF (355/937)
+[2025-08-22 09:02:13] ⬇️  Downloading logo for PLRRF...
+[2025-08-22 09:02:14] ⚠️  HTTP 404 for PLRRF - logo may not exist
+[2025-08-22 09:02:14] 📍 Processing SHNHF (356/937)
+[2025-08-22 09:02:14] ⬇️  Downloading logo for SHNHF...
+[2025-08-22 09:02:15] ⚠️  HTTP 404 for SHNHF - logo may not exist
+[2025-08-22 09:02:15] 📍 Processing DLELY (357/937)
+[2025-08-22 09:02:15] ⬇️  Downloading logo for DLELY...
+[2025-08-22 09:02:16] ⚠️  HTTP 404 for DLELY - logo may not exist
+[2025-08-22 09:02:16] 📍 Processing NATKY (358/937)
+[2025-08-22 09:02:16] ⬇️  Downloading logo for NATKY...
+[2025-08-22 09:02:17] ⚠️  HTTP 404 for NATKY - logo may not exist
+[2025-08-22 09:02:17] 📍 Processing VODPF (359/937)
+[2025-08-22 09:02:17] ⬇️  Downloading logo for VODPF...
+[2025-08-22 09:02:18] ⚠️  HTTP 404 for VODPF - logo may not exist
+[2025-08-22 09:02:18] 📍 Processing BBD (360/937)
+[2025-08-22 09:02:18] ⬇️  Downloading logo for BBD...
+[2025-08-22 09:02:19] ⚠️  HTTP 404 for BBD - logo may not exist
+[2025-08-22 09:02:19] 📍 Processing BBDO (361/937)
+[2025-08-22 09:02:19] ⬇️  Downloading logo for BBDO...
+[2025-08-22 09:02:20] ⚠️  HTTP 404 for BBDO - logo may not exist
+[2025-08-22 09:02:20] 📍 Processing GELYY (362/937)
+[2025-08-22 09:02:20] ⬇️  Downloading logo for GELYY...
+[2025-08-22 09:02:21] ⚠️  HTTP 404 for GELYY - logo may not exist
+[2025-08-22 09:02:21] 📍 Processing CRBJY (363/937)
+[2025-08-22 09:02:21] ⬇️  Downloading logo for CRBJY...
+[2025-08-22 09:02:22] ⚠️  HTTP 404 for CRBJY - logo may not exist
+[2025-08-22 09:02:22] 📍 Processing SNFRY (364/937)
+[2025-08-22 09:02:22] ⬇️  Downloading logo for SNFRY...
+[2025-08-22 09:02:23] ⚠️  HTTP 404 for SNFRY - logo may not exist
+[2025-08-22 09:02:23] 📍 Processing TGRNF (365/937)
+[2025-08-22 09:02:23] ⬇️  Downloading logo for TGRNF...
+[2025-08-22 09:02:24] ⚠️  HTTP 404 for TGRNF - logo may not exist
+[2025-08-22 09:02:25] 📍 Processing CMPGY (366/937)
+[2025-08-22 09:02:25] ⬇️  Downloading logo for CMPGY...
+[2025-08-22 09:02:25] ⚠️  HTTP 404 for CMPGY - logo may not exist
+[2025-08-22 09:02:26] 📍 Processing TGOPY (367/937)
+[2025-08-22 09:02:26] ⬇️  Downloading logo for TGOPY...
+[2025-08-22 09:02:26] ⚠️  HTTP 404 for TGOPY - logo may not exist
+[2025-08-22 09:02:27] 📍 Processing APD (368/937)
+[2025-08-22 09:02:27] ⏭️  Skipping APD - file already exists
+[2025-08-22 09:02:27] 📍 Processing ZLIOY (369/937)
+[2025-08-22 09:02:27] ⬇️  Downloading logo for ZLIOY...
+[2025-08-22 09:02:28] ⚠️  HTTP 404 for ZLIOY - logo may not exist
+[2025-08-22 09:02:28] 📍 Processing JEXYY (370/937)
+[2025-08-22 09:02:28] ⬇️  Downloading logo for JEXYY...
+[2025-08-22 09:02:29] ⚠️  HTTP 404 for JEXYY - logo may not exist
+[2025-08-22 09:02:29] 📍 Processing PYPTF (371/937)
+[2025-08-22 09:02:29] ⬇️  Downloading logo for PYPTF...
+[2025-08-22 09:02:30] ⚠️  HTTP 404 for PYPTF - logo may not exist
+[2025-08-22 09:02:30] 📍 Processing PTHIY (372/937)
+[2025-08-22 09:02:30] ⬇️  Downloading logo for PTHIY...
+[2025-08-22 09:02:31] ⚠️  HTTP 404 for PTHIY - logo may not exist
+[2025-08-22 09:02:31] 📍 Processing EBF (373/937)
+[2025-08-22 09:02:31] ⬇️  Downloading logo for EBF...
+[2025-08-22 09:02:32] ⚠️  HTTP 404 for EBF - logo may not exist
+[2025-08-22 09:02:33] 📍 Processing DIA (374/937)
+[2025-08-22 09:02:33] ⬇️  Downloading logo for DIA...
+[2025-08-22 09:02:33] ⚠️  HTTP 404 for DIA - logo may not exist
+[2025-08-22 09:02:34] 📍 Processing ET (375/937)
+[2025-08-22 09:02:34] ⏭️  Skipping ET - file already exists
+[2025-08-22 09:02:34] 📍 Processing SIRI (376/937)
+[2025-08-22 09:02:34] ⏭️  Skipping SIRI - file already exists
+[2025-08-22 09:02:35] 📍 Processing OVBC (377/937)
+[2025-08-22 09:02:35] ⬇️  Downloading logo for OVBC...
+[2025-08-22 09:02:35] ⚠️  HTTP 404 for OVBC - logo may not exist
+[2025-08-22 09:02:36] 📍 Processing WFC (378/937)
+[2025-08-22 09:02:36] ⏭️  Skipping WFC - file already exists
+[2025-08-22 09:02:36] 📍 Processing UUICF (379/937)
+[2025-08-22 09:02:36] ⬇️  Downloading logo for UUICF...
+[2025-08-22 09:02:37] ⚠️  HTTP 404 for UUICF - logo may not exist
+[2025-08-22 09:02:37] 📍 Processing BYDIY (380/937)
+[2025-08-22 09:02:37] ⬇️  Downloading logo for BYDIY...
+[2025-08-22 09:02:38] ⚠️  HTTP 404 for BYDIY - logo may not exist
+[2025-08-22 09:02:38] 📍 Processing CBRL (381/937)
+[2025-08-22 09:02:38] ⏭️  Skipping CBRL - file already exists
+[2025-08-22 09:02:39] 📍 Processing HARL (382/937)
+[2025-08-22 09:02:39] ⬇️  Downloading logo for HARL...
+[2025-08-22 09:02:39] ⚠️  HTTP 404 for HARL - logo may not exist
+[2025-08-22 09:02:40] 📍 Processing NTIC (383/937)
+[2025-08-22 09:02:40] ⬇️  Downloading logo for NTIC...
+[2025-08-22 09:02:40] ⚠️  HTTP 404 for NTIC - logo may not exist
+[2025-08-22 09:02:41] 📍 Processing LNVGF (384/937)
+[2025-08-22 09:02:41] ⬇️  Downloading logo for LNVGF...
+[2025-08-22 09:02:41] ⚠️  HTTP 404 for LNVGF - logo may not exist
+[2025-08-22 09:02:42] 📍 Processing HIFS (385/937)
+[2025-08-22 09:02:42] ⬇️  Downloading logo for HIFS...
+[2025-08-22 09:02:43] ⚠️  HTTP 404 for HIFS - logo may not exist
+[2025-08-22 09:02:43] 📍 Processing LSBK (386/937)
+[2025-08-22 09:02:43] ⬇️  Downloading logo for LSBK...
+[2025-08-22 09:02:44] ⚠️  HTTP 404 for LSBK - logo may not exist
+[2025-08-22 09:02:44] 📍 Processing OMF (387/937)
+[2025-08-22 09:02:44] ⏭️  Skipping OMF - file already exists
+[2025-08-22 09:02:45] 📍 Processing LVS (388/937)
+[2025-08-22 09:02:45] ⏭️  Skipping LVS - file already exists
+[2025-08-22 09:02:45] 📍 Processing HNVR (389/937)
+[2025-08-22 09:02:45] ⬇️  Downloading logo for HNVR...
+[2025-08-22 09:02:46] ⚠️  HTTP 404 for HNVR - logo may not exist
+[2025-08-22 09:02:46] 📍 Processing KPLIF (390/937)
+[2025-08-22 09:02:46] ⬇️  Downloading logo for KPLIF...
+[2025-08-22 09:02:47] ⚠️  HTTP 404 for KPLIF - logo may not exist
+[2025-08-22 09:02:47] 📍 Processing MNSB (391/937)
+[2025-08-22 09:02:47] ⬇️  Downloading logo for MNSB...
+[2025-08-22 09:02:47] ⚠️  HTTP 404 for MNSB - logo may not exist
+[2025-08-22 09:02:48] 📍 Processing KCLI (392/937)
+[2025-08-22 09:02:48] ⬇️  Downloading logo for KCLI...
+[2025-08-22 09:02:48] ⚠️  HTTP 404 for KCLI - logo may not exist
+[2025-08-22 09:02:49] 📍 Processing HEINY (393/937)
+[2025-08-22 09:02:49] ⬇️  Downloading logo for HEINY...
+[2025-08-22 09:02:50] ⚠️  HTTP 404 for HEINY - logo may not exist
+[2025-08-22 09:02:50] 📍 Processing HKHHY (394/937)
+[2025-08-22 09:02:50] ⬇️  Downloading logo for HKHHY...
+[2025-08-22 09:02:51] ⚠️  HTTP 404 for HKHHY - logo may not exist
+[2025-08-22 09:02:51] 📍 Processing XYIGY (395/937)
+[2025-08-22 09:02:51] ⬇️  Downloading logo for XYIGY...
+[2025-08-22 09:02:52] ⚠️  HTTP 404 for XYIGY - logo may not exist
+[2025-08-22 09:02:52] 📍 Processing HNGZY (396/937)
+[2025-08-22 09:02:52] ⬇️  Downloading logo for HNGZY...
+[2025-08-22 09:02:53] ⚠️  HTTP 404 for HNGZY - logo may not exist
+[2025-08-22 09:02:53] 📍 Processing HPIFY (397/937)
+[2025-08-22 09:02:53] ⬇️  Downloading logo for HPIFY...
+[2025-08-22 09:02:54] ⚠️  HTTP 404 for HPIFY - logo may not exist
+[2025-08-22 09:02:54] 📍 Processing TRAK (398/937)
+[2025-08-22 09:02:54] ⬇️  Downloading logo for TRAK...
+[2025-08-22 09:02:55] ⚠️  HTTP 404 for TRAK - logo may not exist
+[2025-08-22 09:02:55] 📍 Processing CIHKY (399/937)
+[2025-08-22 09:02:55] ⬇️  Downloading logo for CIHKY...
+[2025-08-22 09:02:55] ⚠️  HTTP 404 for CIHKY - logo may not exist
+[2025-08-22 09:02:56] 📍 Processing VTKLY (400/937)
+[2025-08-22 09:02:56] ⬇️  Downloading logo for VTKLY...
+[2025-08-22 09:02:57] ⚠️  HTTP 404 for VTKLY - logo may not exist
+[2025-08-22 09:02:57] 📍 Processing DHC (401/937)
+[2025-08-22 09:02:57] ⬇️  Downloading logo for DHC...
+[2025-08-22 09:02:57] ⚠️  HTTP 404 for DHC - logo may not exist
+[2025-08-22 09:02:58] 📍 Processing ILPT (402/937)
+[2025-08-22 09:02:58] ⬇️  Downloading logo for ILPT...
+[2025-08-22 09:02:58] ⚠️  HTTP 404 for ILPT - logo may not exist
+[2025-08-22 09:02:59] 📍 Processing RMR (403/937)
+[2025-08-22 09:02:59] ⏭️  Skipping RMR - file already exists
+[2025-08-22 09:02:59] 📍 Processing SEVN (404/937)
+[2025-08-22 09:02:59] ⬇️  Downloading logo for SEVN...
+[2025-08-22 09:03:00] ⚠️  HTTP 404 for SEVN - logo may not exist
+[2025-08-22 09:03:00] 📍 Processing SVC (405/937)
+[2025-08-22 09:03:00] ⬇️  Downloading logo for SVC...
+[2025-08-22 09:03:01] ⚠️  HTTP 404 for SVC - logo may not exist
+[2025-08-22 09:03:02] 📍 Processing ATR (406/937)
+[2025-08-22 09:03:02] ⏭️  Skipping ATR - file already exists
+[2025-08-22 09:03:02] 📍 Processing XNGSY (407/937)
+[2025-08-22 09:03:02] ⬇️  Downloading logo for XNGSY...
+[2025-08-22 09:03:03] ⚠️  HTTP 404 for XNGSY - logo may not exist
+[2025-08-22 09:03:03] 📍 Processing BJINF (408/937)
+[2025-08-22 09:03:03] ⬇️  Downloading logo for BJINF...
+[2025-08-22 09:03:04] ⚠️  HTTP 404 for BJINF - logo may not exist
+[2025-08-22 09:03:04] 📍 Processing LDSCY (409/937)
+[2025-08-22 09:03:04] ⬇️  Downloading logo for LDSCY...
+[2025-08-22 09:03:05] ⚠️  HTTP 404 for LDSCY - logo may not exist
+[2025-08-22 09:03:05] 📍 Processing AARTY (410/937)
+[2025-08-22 09:03:05] ⬇️  Downloading logo for AARTY...
+[2025-08-22 09:03:06] ⚠️  HTTP 404 for AARTY - logo may not exist
+[2025-08-22 09:03:06] 📍 Processing NRWRF (411/937)
+[2025-08-22 09:03:06] ⬇️  Downloading logo for NRWRF...
+[2025-08-22 09:03:07] ⚠️  HTTP 404 for NRWRF - logo may not exist
+[2025-08-22 09:03:07] 📍 Processing UUGRY (412/937)
+[2025-08-22 09:03:07] ⬇️  Downloading logo for UUGRY...
+[2025-08-22 09:03:08] ⚠️  HTTP 404 for UUGRY - logo may not exist
+[2025-08-22 09:03:09] 📍 Processing CUGCF (413/937)
+[2025-08-22 09:03:09] ⬇️  Downloading logo for CUGCF...
+[2025-08-22 09:03:09] ⚠️  HTTP 404 for CUGCF - logo may not exist
+[2025-08-22 09:03:10] 📍 Processing GGDVY (414/937)
+[2025-08-22 09:03:10] ⬇️  Downloading logo for GGDVY...
+[2025-08-22 09:03:10] ⚠️  HTTP 404 for GGDVY - logo may not exist
+[2025-08-22 09:03:11] 📍 Processing CRYCY (415/937)
+[2025-08-22 09:03:11] ⬇️  Downloading logo for CRYCY...
+[2025-08-22 09:03:11] ⚠️  HTTP 404 for CRYCY - logo may not exist
+[2025-08-22 09:03:12] 📍 Processing HSHCY (416/937)
+[2025-08-22 09:03:12] ⬇️  Downloading logo for HSHCY...
+[2025-08-22 09:03:12] ⚠️  HTTP 404 for HSHCY - logo may not exist
+[2025-08-22 09:03:13] 📍 Processing PRRFY (417/937)
+[2025-08-22 09:03:13] ⬇️  Downloading logo for PRRFY...
+[2025-08-22 09:03:13] ⚠️  HTTP 404 for PRRFY - logo may not exist
+[2025-08-22 09:03:14] 📍 Processing DE (418/937)
+[2025-08-22 09:03:14] ⏭️  Skipping DE - file already exists
+[2025-08-22 09:03:14] 📍 Processing ITUB (419/937)
+[2025-08-22 09:03:14] ⬇️  Downloading logo for ITUB...
+[2025-08-22 09:03:15] ⚠️  HTTP 404 for ITUB - logo may not exist
+[2025-08-22 09:03:15] 📍 Processing ALMMF (420/937)
+[2025-08-22 09:03:15] ⬇️  Downloading logo for ALMMF...
+[2025-08-22 09:03:16] ⚠️  HTTP 404 for ALMMF - logo may not exist
+[2025-08-22 09:03:17] 📍 Processing AXP (421/937)
+[2025-08-22 09:03:17] ⏭️  Skipping AXP - file already exists
+[2025-08-22 09:03:17] 📍 Processing WNWSF (422/937)
+[2025-08-22 09:03:17] ⬇️  Downloading logo for WNWSF...
+[2025-08-22 09:03:18] ⚠️  HTTP 404 for WNWSF - logo may not exist
+[2025-08-22 09:03:18] 📍 Processing NXGPY (423/937)
+[2025-08-22 09:03:18] ⬇️  Downloading logo for NXGPY...
+[2025-08-22 09:03:19] ⚠️  HTTP 404 for NXGPY - logo may not exist
+[2025-08-22 09:03:19] 📍 Processing PMDKY (424/937)
+[2025-08-22 09:03:19] ⬇️  Downloading logo for PMDKY...
+[2025-08-22 09:03:20] ⚠️  HTTP 404 for PMDKY - logo may not exist
+[2025-08-22 09:03:20] 📍 Processing BSBR (425/937)
+[2025-08-22 09:03:20] ⬇️  Downloading logo for BSBR...
+[2025-08-22 09:03:21] ⚠️  HTTP 404 for BSBR - logo may not exist
+[2025-08-22 09:03:21] 📍 Processing GEV (426/937)
+[2025-08-22 09:03:21] ⬇️  Downloading logo for GEV...
+[2025-08-22 09:03:22] ⚠️  HTTP 404 for GEV - logo may not exist
+[2025-08-22 09:03:22] 📍 Processing FVCB (427/937)
+[2025-08-22 09:03:22] ⬇️  Downloading logo for FVCB...
+[2025-08-22 09:03:23] ⚠️  HTTP 404 for FVCB - logo may not exist
+[2025-08-22 09:03:23] 📍 Processing TGSGY (428/937)
+[2025-08-22 09:03:23] ⬇️  Downloading logo for TGSGY...
+[2025-08-22 09:03:24] ⚠️  HTTP 404 for TGSGY - logo may not exist
+[2025-08-22 09:03:24] 📍 Processing AMP (429/937)
+[2025-08-22 09:03:24] ⏭️  Skipping AMP - file already exists
+[2025-08-22 09:03:25] 📍 Processing ASRV (430/937)
+[2025-08-22 09:03:25] ⬇️  Downloading logo for ASRV...
+[2025-08-22 09:03:26] ⚠️  HTTP 404 for ASRV - logo may not exist
+[2025-08-22 09:03:26] 📍 Processing AUB (431/937)
+[2025-08-22 09:03:26] ⬇️  Downloading logo for AUB...
+[2025-08-22 09:03:27] ⚠️  HTTP 404 for AUB - logo may not exist
+[2025-08-22 09:03:27] 📍 Processing HFBL (432/937)
+[2025-08-22 09:03:27] ⬇️  Downloading logo for HFBL...
+[2025-08-22 09:03:27] ⚠️  HTTP 404 for HFBL - logo may not exist
+[2025-08-22 09:03:28] 📍 Processing PEBO (433/937)
+[2025-08-22 09:03:28] ⬇️  Downloading logo for PEBO...
+[2025-08-22 09:03:28] ⚠️  HTTP 404 for PEBO - logo may not exist
+[2025-08-22 09:03:29] 📍 Processing CMCO (434/937)
+[2025-08-22 09:03:29] ⏭️  Skipping CMCO - file already exists
+[2025-08-22 09:03:29] 📍 Processing LNG (435/937)
+[2025-08-22 09:03:29] ⏭️  Skipping LNG - file already exists
+[2025-08-22 09:03:30] 📍 Processing FSP (436/937)
+[2025-08-22 09:03:30] ⬇️  Downloading logo for FSP...
+[2025-08-22 09:03:30] ⚠️  HTTP 404 for FSP - logo may not exist
+[2025-08-22 09:03:31] 📍 Processing STZ (437/937)
+[2025-08-22 09:03:31] ⏭️  Skipping STZ - file already exists
+[2025-08-22 09:03:32] 📍 Processing VOC (438/937)
+[2025-08-22 09:03:32] ⬇️  Downloading logo for VOC...
+[2025-08-22 09:03:32] ⚠️  HTTP 404 for VOC - logo may not exist
+[2025-08-22 09:03:33] 📍 Processing ADC (439/937)
+[2025-08-22 09:03:33] ⬇️  Downloading logo for ADC...
+[2025-08-22 09:03:33] ⚠️  HTTP 404 for ADC - logo may not exist
+[2025-08-22 09:03:34] 📍 Processing CFG (440/937)
+[2025-08-22 09:03:34] ⏭️  Skipping CFG - file already exists
+[2025-08-22 09:03:34] 📍 Processing CRT (441/937)
+[2025-08-22 09:03:34] ⬇️  Downloading logo for CRT...
+[2025-08-22 09:03:34] ⚠️  HTTP 404 for CRT - logo may not exist
+[2025-08-22 09:03:35] 📍 Processing CYVF (442/937)
+[2025-08-22 09:03:35] ⬇️  Downloading logo for CYVF...
+[2025-08-22 09:03:35] ⚠️  HTTP 404 for CYVF - logo may not exist
+[2025-08-22 09:03:36] 📍 Processing EPD (443/937)
+[2025-08-22 09:03:36] ⏭️  Skipping EPD - file already exists
+[2025-08-22 09:03:36] 📍 Processing FUL (444/937)
+[2025-08-22 09:03:36] ⏭️  Skipping FUL - file already exists
+[2025-08-22 09:03:37] 📍 Processing GEL (445/937)
+[2025-08-22 09:03:37] ⬇️  Downloading logo for GEL...
+[2025-08-22 09:03:37] ⚠️  HTTP 404 for GEL - logo may not exist
+[2025-08-22 09:03:38] 📍 Processing PAA (446/937)
+[2025-08-22 09:03:38] ⬇️  Downloading logo for PAA...
+[2025-08-22 09:03:38] ⚠️  HTTP 404 for PAA - logo may not exist
+[2025-08-22 09:03:39] 📍 Processing PAGP (447/937)
+[2025-08-22 09:03:39] ⏭️  Skipping PAGP - file already exists
+[2025-08-22 09:03:39] 📍 Processing PBT (448/937)
+[2025-08-22 09:03:39] ⬇️  Downloading logo for PBT...
+[2025-08-22 09:03:40] ⚠️  HTTP 404 for PBT - logo may not exist
+[2025-08-22 09:03:40] 📍 Processing PRT (449/937)
+[2025-08-22 09:03:40] ⬇️  Downloading logo for PRT...
+[2025-08-22 09:03:41] ⚠️  HTTP 404 for PRT - logo may not exist
+[2025-08-22 09:03:42] 📍 Processing OKE (450/937)
+[2025-08-22 09:03:42] ⏭️  Skipping OKE - file already exists
+[2025-08-22 09:03:42] 📍 Processing SPSTF (451/937)
+[2025-08-22 09:03:42] ⬇️  Downloading logo for SPSTF...
+[2025-08-22 09:03:43] ⚠️  HTTP 404 for SPSTF - logo may not exist
+[2025-08-22 09:03:43] 📍 Processing WES (452/937)
+[2025-08-22 09:03:43] ⬇️  Downloading logo for WES...
+[2025-08-22 09:03:44] ⚠️  HTTP 404 for WES - logo may not exist
+[2025-08-22 09:03:44] 📍 Processing AB (453/937)
+[2025-08-22 09:03:44] ⏭️  Skipping AB - file already exists
+[2025-08-22 09:03:45] 📍 Processing BSRR (454/937)
+[2025-08-22 09:03:45] ⬇️  Downloading logo for BSRR...
+[2025-08-22 09:03:45] ⚠️  HTTP 404 for BSRR - logo may not exist
+[2025-08-22 09:03:46] 📍 Processing CAPL (455/937)
+[2025-08-22 09:03:46] ⬇️  Downloading logo for CAPL...
+[2025-08-22 09:03:46] ⚠️  HTTP 404 for CAPL - logo may not exist
+[2025-08-22 09:03:47] 📍 Processing DMLP (456/937)
+[2025-08-22 09:03:47] ⬇️  Downloading logo for DMLP...
+[2025-08-22 09:03:47] ⚠️  HTTP 404 for DMLP - logo may not exist
+[2025-08-22 09:03:48] 📍 Processing GASNY (457/937)
+[2025-08-22 09:03:48] ⬇️  Downloading logo for GASNY...
+[2025-08-22 09:03:48] ⚠️  HTTP 404 for GASNY - logo may not exist
+[2025-08-22 09:03:49] 📍 Processing KGS (458/937)
+[2025-08-22 09:03:49] ⬇️  Downloading logo for KGS...
+[2025-08-22 09:03:49] ⚠️  HTTP 404 for KGS - logo may not exist
+[2025-08-22 09:03:50] 📍 Processing SND (459/937)
+[2025-08-22 09:03:50] ⬇️  Downloading logo for SND...
+[2025-08-22 09:03:50] ⚠️  HTTP 404 for SND - logo may not exist
+[2025-08-22 09:03:51] 📍 Processing PSZKF (460/937)
+[2025-08-22 09:03:51] ⬇️  Downloading logo for PSZKF...
+[2025-08-22 09:03:51] ⚠️  HTTP 404 for PSZKF - logo may not exist
+[2025-08-22 09:03:52] 📍 Processing ARLP (461/937)
+[2025-08-22 09:03:52] ⬇️  Downloading logo for ARLP...
+[2025-08-22 09:03:52] ⚠️  HTTP 404 for ARLP - logo may not exist
+[2025-08-22 09:03:53] 📍 Processing BMRC (462/937)
+[2025-08-22 09:03:53] ⬇️  Downloading logo for BMRC...
+[2025-08-22 09:03:53] ⚠️  HTTP 404 for BMRC - logo may not exist
+[2025-08-22 09:03:54] 📍 Processing BSM (463/937)
+[2025-08-22 09:03:54] ⬇️  Downloading logo for BSM...
+[2025-08-22 09:03:54] ⚠️  HTTP 404 for BSM - logo may not exist
+[2025-08-22 09:03:55] 📍 Processing DHI (464/937)
+[2025-08-22 09:03:55] ⏭️  Skipping DHI - file already exists
+[2025-08-22 09:03:55] 📍 Processing HESM (465/937)
+[2025-08-22 09:03:55] ⏭️  Skipping HESM - file already exists
+[2025-08-22 09:03:56] 📍 Processing MMLP (466/937)
+[2025-08-22 09:03:56] ⬇️  Downloading logo for MMLP...
+[2025-08-22 09:03:57] ⚠️  HTTP 404 for MMLP - logo may not exist
+[2025-08-22 09:03:57] 📍 Processing RWWI (467/937)
+[2025-08-22 09:03:57] ⬇️  Downloading logo for RWWI...
+[2025-08-22 09:03:58] ⚠️  HTTP 404 for RWWI - logo may not exist
+[2025-08-22 09:03:58] 📍 Processing CQP (468/937)
+[2025-08-22 09:03:58] ⬇️  Downloading logo for CQP...
+[2025-08-22 09:03:59] ⚠️  HTTP 404 for CQP - logo may not exist
+[2025-08-22 09:03:59] 📍 Processing DKL (469/937)
+[2025-08-22 09:03:59] ⬇️  Downloading logo for DKL...
+[2025-08-22 09:04:00] ⚠️  HTTP 404 for DKL - logo may not exist
+[2025-08-22 09:04:00] 📍 Processing GLP (470/937)
+[2025-08-22 09:04:00] ⬇️  Downloading logo for GLP...
+[2025-08-22 09:04:01] ⚠️  HTTP 404 for GLP - logo may not exist
+[2025-08-22 09:04:01] 📍 Processing NMM (471/937)
+[2025-08-22 09:04:01] ⏭️  Skipping NMM - file already exists
+[2025-08-22 09:04:02] 📍 Processing EMSHF (472/937)
+[2025-08-22 09:04:02] ⬇️  Downloading logo for EMSHF...
+[2025-08-22 09:04:02] ⚠️  HTTP 404 for EMSHF - logo may not exist
+[2025-08-22 09:04:03] 📍 Processing GPAEF (473/937)
+[2025-08-22 09:04:03] ⬇️  Downloading logo for GPAEF...
+[2025-08-22 09:04:03] ⚠️  HTTP 404 for GPAEF - logo may not exist
+[2025-08-22 09:04:04] 📍 Processing JWTXF (474/937)
+[2025-08-22 09:04:04] ⬇️  Downloading logo for JWTXF...
+[2025-08-22 09:04:04] ⚠️  HTTP 404 for JWTXF - logo may not exist
+[2025-08-22 09:04:05] 📍 Processing MITFY (475/937)
+[2025-08-22 09:04:05] ⬇️  Downloading logo for MITFY...
+[2025-08-22 09:04:05] ⚠️  HTTP 404 for MITFY - logo may not exist
+[2025-08-22 09:04:06] 📍 Processing OXINF (476/937)
+[2025-08-22 09:04:06] ⬇️  Downloading logo for OXINF...
+[2025-08-22 09:04:06] ⚠️  HTTP 404 for OXINF - logo may not exist
+[2025-08-22 09:04:07] 📍 Processing CALM (477/937)
+[2025-08-22 09:04:07] ⏭️  Skipping CALM - file already exists
+[2025-08-22 09:04:07] 📍 Processing SNGNF (478/937)
+[2025-08-22 09:04:07] ⬇️  Downloading logo for SNGNF...
+[2025-08-22 09:04:08] ⚠️  HTTP 404 for SNGNF - logo may not exist
+[2025-08-22 09:04:09] 📍 Processing BY (479/937)
+[2025-08-22 09:04:09] ⬇️  Downloading logo for BY...
+[2025-08-22 09:04:09] ⚠️  HTTP 404 for BY - logo may not exist
+[2025-08-22 09:04:10] 📍 Processing CIVB (480/937)
+[2025-08-22 09:04:10] ⬇️  Downloading logo for CIVB...
+[2025-08-22 09:04:10] ⚠️  HTTP 404 for CIVB - logo may not exist
+[2025-08-22 09:04:11] 📍 Processing FCCO (481/937)
+[2025-08-22 09:04:11] ⬇️  Downloading logo for FCCO...
+[2025-08-22 09:04:11] ⚠️  HTTP 404 for FCCO - logo may not exist
+[2025-08-22 09:04:12] 📍 Processing AMBP (482/937)
+[2025-08-22 09:04:12] ⬇️  Downloading logo for AMBP...
+[2025-08-22 09:04:12] ⚠️  HTTP 404 for AMBP - logo may not exist
+[2025-08-22 09:04:13] 📍 Processing NWBI (483/937)
+[2025-08-22 09:04:13] ⏭️  Skipping NWBI - file already exists
+[2025-08-22 09:04:13] 📍 Processing SUN (484/937)
+[2025-08-22 09:04:13] ⬇️  Downloading logo for SUN...
+[2025-08-22 09:04:14] ⚠️  HTTP 404 for SUN - logo may not exist
+[2025-08-22 09:04:14] 📍 Processing DNGDF (485/937)
+[2025-08-22 09:04:14] ⬇️  Downloading logo for DNGDF...
+[2025-08-22 09:04:15] ⚠️  HTTP 404 for DNGDF - logo may not exist
+[2025-08-22 09:04:15] 📍 Processing GNE (486/937)
+[2025-08-22 09:04:15] ⬇️  Downloading logo for GNE...
+[2025-08-22 09:04:16] ⚠️  HTTP 404 for GNE - logo may not exist
+[2025-08-22 09:04:16] 📍 Processing FTAI (487/937)
+[2025-08-22 09:04:16] ⏭️  Skipping FTAI - file already exists
+[2025-08-22 09:04:17] 📍 Processing HTGC (488/937)
+[2025-08-22 09:04:17] ⏭️  Skipping HTGC - file already exists
+[2025-08-22 09:04:17] 📍 Processing CCD (489/937)
+[2025-08-22 09:04:17] ⬇️  Downloading logo for CCD...
+[2025-08-22 09:04:18] ⚠️  HTTP 404 for CCD - logo may not exist
+[2025-08-22 09:04:18] 📍 Processing CGO (490/937)
+[2025-08-22 09:04:18] ⬇️  Downloading logo for CGO...
+[2025-08-22 09:04:19] ⚠️  HTTP 404 for CGO - logo may not exist
+[2025-08-22 09:04:19] 📍 Processing CHI (491/937)
+[2025-08-22 09:04:19] ⬇️  Downloading logo for CHI...
+[2025-08-22 09:04:20] ⚠️  HTTP 404 for CHI - logo may not exist
+[2025-08-22 09:04:21] 📍 Processing CHW (492/937)
+[2025-08-22 09:04:21] ⬇️  Downloading logo for CHW...
+[2025-08-22 09:04:21] ⚠️  HTTP 404 for CHW - logo may not exist
+[2025-08-22 09:04:22] 📍 Processing CHY (493/937)
+[2025-08-22 09:04:22] ⬇️  Downloading logo for CHY...
+[2025-08-22 09:04:22] ⚠️  HTTP 404 for CHY - logo may not exist
+[2025-08-22 09:04:23] 📍 Processing CPZ (494/937)
+[2025-08-22 09:04:23] ⬇️  Downloading logo for CPZ...
+[2025-08-22 09:04:23] ⚠️  HTTP 404 for CPZ - logo may not exist
+[2025-08-22 09:04:24] 📍 Processing CSQ (495/937)
+[2025-08-22 09:04:24] ⬇️  Downloading logo for CSQ...
+[2025-08-22 09:04:24] ⚠️  HTTP 404 for CSQ - logo may not exist
+[2025-08-22 09:04:25] 📍 Processing STR (496/937)
+[2025-08-22 09:04:25] ⬇️  Downloading logo for STR...
+[2025-08-22 09:04:25] ⚠️  HTTP 404 for STR - logo may not exist
+[2025-08-22 09:04:26] 📍 Processing USM (497/937)
+[2025-08-22 09:04:26] ⏭️  Skipping USM - file already exists
+[2025-08-22 09:04:26] 📍 Processing LOW (498/937)
+[2025-08-22 09:04:26] ⏭️  Skipping LOW - file already exists
+[2025-08-22 09:04:27] 📍 Processing RDY (499/937)
+[2025-08-22 09:04:27] ⬇️  Downloading logo for RDY...
+[2025-08-22 09:04:27] ⚠️  HTTP 404 for RDY - logo may not exist
+[2025-08-22 09:04:28] 📍 Processing SGU (500/937)
+[2025-08-22 09:04:28] ⬇️  Downloading logo for SGU...
+[2025-08-22 09:04:28] ⚠️  HTTP 404 for SGU - logo may not exist
+[2025-08-22 09:04:29] 📍 Processing ASMLF (501/937)
+[2025-08-22 09:04:29] ⏭️  Skipping ASMLF - file already exists
+[2025-08-22 09:04:29] 📍 Processing CBTN (502/937)
+[2025-08-22 09:04:29] ⬇️  Downloading logo for CBTN...
+[2025-08-22 09:04:30] ⚠️  HTTP 404 for CBTN - logo may not exist
+[2025-08-22 09:04:30] 📍 Processing WST (503/937)
+[2025-08-22 09:04:30] ⏭️  Skipping WST - file already exists
+[2025-08-22 09:04:31] 📍 Processing CVSB (504/937)
+[2025-08-22 09:04:31] ⬇️  Downloading logo for CVSB...
+[2025-08-22 09:04:32] ⚠️  HTTP 404 for CVSB - logo may not exist
+[2025-08-22 09:04:32] 📍 Processing EVHY (505/937)
+[2025-08-22 09:04:32] ⬇️  Downloading logo for EVHY...
+[2025-08-22 09:04:33] ⚠️  HTTP 404 for EVHY - logo may not exist
+[2025-08-22 09:04:33] 📍 Processing EVIM (506/937)
+[2025-08-22 09:04:33] ⬇️  Downloading logo for EVIM...
+[2025-08-22 09:04:34] ⚠️  HTTP 404 for EVIM - logo may not exist
+[2025-08-22 09:04:34] 📍 Processing EVLN (507/937)
+[2025-08-22 09:04:34] ⬇️  Downloading logo for EVLN...
+[2025-08-22 09:04:35] ⚠️  HTTP 404 for EVLN - logo may not exist
+[2025-08-22 09:04:35] 📍 Processing EVSB (508/937)
+[2025-08-22 09:04:35] ⬇️  Downloading logo for EVSB...
+[2025-08-22 09:04:36] ⚠️  HTTP 404 for EVSB - logo may not exist
+[2025-08-22 09:04:36] 📍 Processing EVSD (509/937)
+[2025-08-22 09:04:36] ⬇️  Downloading logo for EVSD...
+[2025-08-22 09:04:36] ⚠️  HTTP 404 for EVSD - logo may not exist
+[2025-08-22 09:04:37] 📍 Processing EVSM (510/937)
+[2025-08-22 09:04:37] ⬇️  Downloading logo for EVSM...
+[2025-08-22 09:04:37] ⚠️  HTTP 404 for EVSM - logo may not exist
+[2025-08-22 09:04:38] 🚀 Starting stock logo download process...
+[2025-08-22 09:04:38] ℹ️ Using start ID: 5
+[2025-08-22 09:04:38] 🔍 Fetching tickers from API...
+[2025-08-22 09:04:38] 📍 Processing EVTR (511/937)
+[2025-08-22 09:04:38] ⬇️  Downloading logo for EVTR...
+[2025-08-22 09:04:38] ⚠️  HTTP 404 for EVTR - logo may not exist
+[2025-08-22 09:04:39] 🔍 Starting from ID 5
+[2025-08-22 09:04:39] 📊 Found 933 tickers from API
+[2025-08-22 09:04:39] 📍 Processing AMD (1/933)
+[2025-08-22 09:04:39] ⏭️  Skipping AMD - file already exists
+[2025-08-22 09:04:39] 📍 Processing EVYM (512/937)
+[2025-08-22 09:04:39] ⬇️  Downloading logo for EVYM...
+[2025-08-22 09:04:39] ⚠️  HTTP 404 for EVYM - logo may not exist
+[2025-08-22 09:04:39] 📍 Processing ASML (2/933)
+[2025-08-22 09:04:39] ⏭️  Skipping ASML - file already exists
+[2025-08-22 09:04:40] 📍 Processing HTAX (513/937)
+[2025-08-22 09:04:40] ⬇️  Downloading logo for HTAX...
+[2025-08-22 09:04:40] 📍 Processing BY6 (3/933)
+[2025-08-22 09:04:40] ⬇️  Downloading logo for BY6...
+[2025-08-22 09:04:40] ⚠️  HTTP 404 for HTAX - logo may not exist
+[2025-08-22 09:04:40] ⚠️  HTTP 404 for BY6 - logo may not exist
+[2025-08-22 09:04:40] 📍 Processing PAPI (514/937)
+[2025-08-22 09:04:40] ⬇️  Downloading logo for PAPI...
+[2025-08-22 09:04:41] 📍 Processing BYDDY (4/933)
+[2025-08-22 09:04:41] ⏭️  Skipping BYDDY - file already exists
+[2025-08-22 09:04:41] ⚠️  HTTP 404 for PAPI - logo may not exist
+[2025-08-22 09:04:41] 📍 Processing CNQ (5/933)
+[2025-08-22 09:04:41] ⏭️  Skipping CNQ - file already exists
+[2025-08-22 09:04:42] 📍 Processing STAX (515/937)
+[2025-08-22 09:04:42] ⬇️  Downloading logo for STAX...
+[2025-08-22 09:04:42] 📍 Processing CSCO (6/933)
+[2025-08-22 09:04:42] ⏭️  Skipping CSCO - file already exists
+[2025-08-22 09:04:42] ⚠️  HTTP 404 for STAX - logo may not exist
+[2025-08-22 09:04:42] 📍 Processing CVX (7/933)
+[2025-08-22 09:04:42] ⏭️  Skipping CVX - file already exists
+[2025-08-22 09:04:43] 📍 Processing AGG (516/937)
+[2025-08-22 09:04:43] ⬇️  Downloading logo for AGG...
+[2025-08-22 09:04:43] ⚠️  HTTP 404 for AGG - logo may not exist
+[2025-08-22 09:04:43] 📍 Processing DASH (8/933)
+[2025-08-22 09:04:43] ⏭️  Skipping DASH - file already exists
+[2025-08-22 09:04:43] 📍 Processing AGGS (517/937)
+[2025-08-22 09:04:43] ⬇️  Downloading logo for AGGS...
+[2025-08-22 09:04:43] 📍 Processing DHER (9/933)
+[2025-08-22 09:04:43] ⬇️  Downloading logo for DHER...
+[2025-08-22 09:04:44] ⚠️  HTTP 404 for AGGS - logo may not exist
+[2025-08-22 09:04:44] ⚠️  HTTP 404 for DHER - logo may not exist
+[2025-08-22 09:04:44] 📍 Processing AGZ (518/937)
+[2025-08-22 09:04:44] ⬇️  Downloading logo for AGZ...
+[2025-08-22 09:04:44] 📍 Processing DHR (10/933)
+[2025-08-22 09:04:44] ⏭️  Skipping DHR - file already exists
+[2025-08-22 09:04:45] ⚠️  HTTP 404 for AGZ - logo may not exist
+[2025-08-22 09:04:45] 📍 Processing EA (11/933)
+[2025-08-22 09:04:45] ⏭️  Skipping EA - file already exists
+[2025-08-22 09:04:45] 📍 Processing ANGL (519/937)
+[2025-08-22 09:04:45] ⬇️  Downloading logo for ANGL...
+[2025-08-22 09:04:45] 📍 Processing ECL (12/933)
+[2025-08-22 09:04:45] ⏭️  Skipping ECL - file already exists
+[2025-08-22 09:04:46] ⚠️  HTTP 404 for ANGL - logo may not exist
+[2025-08-22 09:04:46] 📍 Processing EMR (13/933)
+[2025-08-22 09:04:46] ⏭️  Skipping EMR - file already exists
+[2025-08-22 09:04:46] 📍 Processing BALI (520/937)
+[2025-08-22 09:04:46] ⬇️  Downloading logo for BALI...
+[2025-08-22 09:04:46] 📍 Processing ERT (14/933)
+[2025-08-22 09:04:46] ⬇️  Downloading logo for ERT...
+[2025-08-22 09:04:47] ⚠️  HTTP 404 for BALI - logo may not exist
+[2025-08-22 09:04:47] ⚠️  HTTP 404 for ERT - logo may not exist
+[2025-08-22 09:04:47] 📍 Processing BBBI (521/937)
+[2025-08-22 09:04:47] ⬇️  Downloading logo for BBBI...
+[2025-08-22 09:04:47] 📍 Processing GILD (15/933)
+[2025-08-22 09:04:47] ⏭️  Skipping GILD - file already exists
+[2025-08-22 09:04:48] ⚠️  HTTP 404 for BBBI - logo may not exist
+[2025-08-22 09:04:48] 📍 Processing GWW (16/933)
+[2025-08-22 09:04:48] ⏭️  Skipping GWW - file already exists
+[2025-08-22 09:04:48] 📍 Processing BBBL (522/937)
+[2025-08-22 09:04:48] ⬇️  Downloading logo for BBBL...
+[2025-08-22 09:04:48] 📍 Processing HD (17/933)
+[2025-08-22 09:04:48] ⏭️  Skipping HD - file already exists
+[2025-08-22 09:04:49] ⚠️  HTTP 404 for BBBL - logo may not exist
+[2025-08-22 09:04:49] 📍 Processing ITW (18/933)
+[2025-08-22 09:04:49] ⏭️  Skipping ITW - file already exists
+[2025-08-22 09:04:49] 📍 Processing BBBS (523/937)
+[2025-08-22 09:04:49] ⬇️  Downloading logo for BBBS...
+[2025-08-22 09:04:49] 📍 Processing JNJ (19/933)
+[2025-08-22 09:04:49] ⏭️  Skipping JNJ - file already exists
+[2025-08-22 09:04:50] ⚠️  HTTP 404 for BBBS - logo may not exist
+[2025-08-22 09:04:50] 📍 Processing KMB (20/933)
+[2025-08-22 09:04:50] ⏭️  Skipping KMB - file already exists
+[2025-08-22 09:04:50] 📍 Processing BCLO (524/937)
+[2025-08-22 09:04:50] ⬇️  Downloading logo for BCLO...
+[2025-08-22 09:04:50] 📍 Processing MDT (21/933)
+[2025-08-22 09:04:50] ⏭️  Skipping MDT - file already exists
+[2025-08-22 09:04:51] ⚠️  HTTP 404 for BCLO - logo may not exist
+[2025-08-22 09:04:51] 📍 Processing MELI (22/933)
+[2025-08-22 09:04:51] ⏭️  Skipping MELI - file already exists
+[2025-08-22 09:04:51] 📍 Processing BEMB (525/937)
+[2025-08-22 09:04:51] ⬇️  Downloading logo for BEMB...
+[2025-08-22 09:04:51] 📍 Processing MMM (23/933)
+[2025-08-22 09:04:51] ⏭️  Skipping MMM - file already exists
+[2025-08-22 09:04:52] ⚠️  HTTP 404 for BEMB - logo may not exist
+[2025-08-22 09:04:52] 📍 Processing NOW (24/933)
+[2025-08-22 09:04:52] ⏭️  Skipping NOW - file already exists
+[2025-08-22 09:04:52] 📍 Processing BGRN (526/937)
+[2025-08-22 09:04:52] ⬇️  Downloading logo for BGRN...
+[2025-08-22 09:04:52] 📍 Processing NUE (25/933)
+[2025-08-22 09:04:52] ⏭️  Skipping NUE - file already exists
+[2025-08-22 09:04:53] ⚠️  HTTP 404 for BGRN - logo may not exist
+[2025-08-22 09:04:53] 📍 Processing PATH (26/933)
+[2025-08-22 09:04:53] ⏭️  Skipping PATH - file already exists
+[2025-08-22 09:04:53] 📍 Processing BIL (527/937)
+[2025-08-22 09:04:53] ⬇️  Downloading logo for BIL...
+[2025-08-22 09:04:53] 📍 Processing PINS (27/933)
+[2025-08-22 09:04:53] ⏭️  Skipping PINS - file already exists
+[2025-08-22 09:04:54] ⚠️  HTTP 404 for BIL - logo may not exist
+[2025-08-22 09:04:54] 📍 Processing PYPL (28/933)
+[2025-08-22 09:04:54] ⏭️  Skipping PYPL - file already exists
+[2025-08-22 09:04:54] 📍 Processing BILS (528/937)
+[2025-08-22 09:04:54] ⬇️  Downloading logo for BILS...
+[2025-08-22 09:04:55] 📍 Processing RBLX (29/933)
+[2025-08-22 09:04:55] ⏭️  Skipping RBLX - file already exists
+[2025-08-22 09:04:55] ⚠️  HTTP 404 for BILS - logo may not exist
+[2025-08-22 09:04:55] 📍 Processing RKT (30/933)
+[2025-08-22 09:04:55] ⏭️  Skipping RKT - file already exists
+[2025-08-22 09:04:55] 📍 Processing BINC (529/937)
+[2025-08-22 09:04:55] ⬇️  Downloading logo for BINC...
+[2025-08-22 09:04:56] 📍 Processing ROP (31/933)
+[2025-08-22 09:04:56] ⏭️  Skipping ROP - file already exists
+[2025-08-22 09:04:56] ⚠️  HTTP 404 for BINC - logo may not exist
+[2025-08-22 09:04:56] 📍 Processing SAP (32/933)
+[2025-08-22 09:04:56] ⬇️  Downloading logo for SAP...
+[2025-08-22 09:04:56] ⚠️  HTTP 404 for SAP - logo may not exist
+[2025-08-22 09:04:56] 📍 Processing BKAG (530/937)
+[2025-08-22 09:04:56] ⬇️  Downloading logo for BKAG...
+[2025-08-22 09:04:57] 📍 Processing SHOP (33/933)
+[2025-08-22 09:04:57] ⏭️  Skipping SHOP - file already exists
+[2025-08-22 09:04:57] ⚠️  HTTP 404 for BKAG - logo may not exist
+[2025-08-22 09:04:57] 📍 Processing SHW (34/933)
+[2025-08-22 09:04:57] ⏭️  Skipping SHW - file already exists
+[2025-08-22 09:04:57] 📍 Processing BKHY (531/937)
+[2025-08-22 09:04:57] ⬇️  Downloading logo for BKHY...
+[2025-08-22 09:04:58] 📍 Processing SMCI (35/933)
+[2025-08-22 09:04:58] ⏭️  Skipping SMCI - file already exists
+[2025-08-22 09:04:58] ⚠️  HTTP 404 for BKHY - logo may not exist
+[2025-08-22 09:04:58] 📍 Processing SWVL (36/933)
+[2025-08-22 09:04:58] ⬇️  Downloading logo for SWVL...
+[2025-08-22 09:04:58] 📍 Processing BKUI (532/937)
+[2025-08-22 09:04:58] ⬇️  Downloading logo for BKUI...
+[2025-08-22 09:04:59] ⚠️  HTTP 404 for SWVL - logo may not exist
+[2025-08-22 09:04:59] ⚠️  HTTP 404 for BKUI - logo may not exist
+[2025-08-22 09:04:59] 📍 Processing TER (37/933)
+[2025-08-22 09:04:59] ⏭️  Skipping TER - file already exists
+[2025-08-22 09:04:59] 📍 Processing BRHY (533/937)
+[2025-08-22 09:04:59] ⬇️  Downloading logo for BRHY...
+[2025-08-22 09:05:00] 📍 Processing TSLA (38/933)
+[2025-08-22 09:05:00] ⏭️  Skipping TSLA - file already exists
+[2025-08-22 09:05:00] ⚠️  HTTP 404 for BRHY - logo may not exist
+[2025-08-22 09:05:00] 📍 Processing TSM (39/933)
+[2025-08-22 09:05:00] ⏭️  Skipping TSM - file already exists
+[2025-08-22 09:05:01] 📍 Processing BRLN (534/937)
+[2025-08-22 09:05:01] ⏭️  Skipping BRLN - file already exists
+[2025-08-22 09:05:01] 📍 Processing TTD (40/933)
+[2025-08-22 09:05:01] ⏭️  Skipping TTD - file already exists
+[2025-08-22 09:05:01] 📍 Processing BRTR (535/937)
+[2025-08-22 09:05:01] ⏭️  Skipping BRTR - file already exists
+[2025-08-22 09:05:01] 📍 Processing UBER (41/933)
+[2025-08-22 09:05:01] ⏭️  Skipping UBER - file already exists
+[2025-08-22 09:05:02] 📍 Processing BWX (536/937)
+[2025-08-22 09:05:02] ⬇️  Downloading logo for BWX...
+[2025-08-22 09:05:02] 🚀 Starting stock logo download process...
+[2025-08-22 09:05:02] ℹ️ Using start ID: 900
+[2025-08-22 09:05:02] 🔍 Fetching tickers from API...
+[2025-08-22 09:05:02] 📍 Processing V (42/933)
+[2025-08-22 09:05:02] ⏭️  Skipping V - file already exists
+[2025-08-22 09:05:02] ⚠️  HTTP 404 for BWX - logo may not exist
+[2025-08-22 09:05:02] 📍 Processing VCYT (43/933)
+[2025-08-22 09:05:02] ⏭️  Skipping VCYT - file already exists
+[2025-08-22 09:05:02] 🔍 Starting from ID 900
+[2025-08-22 09:05:02] 📊 Found 62 tickers from API
+[2025-08-22 09:05:02] 📍 Processing VMC (1/62)
+[2025-08-22 09:05:02] ⬇️  Downloading logo for VMC...
+[2025-08-22 09:05:03] 📍 Processing BWZ (537/937)
+[2025-08-22 09:05:03] ⬇️  Downloading logo for BWZ...
+[2025-08-22 09:05:03] 📍 Processing WMT (44/933)
+[2025-08-22 09:05:03] ⏭️  Skipping WMT - file already exists
+[2025-08-22 09:05:03] ✅ Successfully downloaded VMC.svg (2.82 KB)
+[2025-08-22 09:05:03] ⚠️  HTTP 404 for BWZ - logo may not exist
+[2025-08-22 09:05:03] 📍 Processing XOM (45/933)
+[2025-08-22 09:05:03] ⏭️  Skipping XOM - file already exists
+[2025-08-22 09:05:04] 📍 Processing AWR (2/62)
+[2025-08-22 09:05:04] ⬇️  Downloading logo for AWR...
+[2025-08-22 09:05:04] 📍 Processing CALI (538/937)
+[2025-08-22 09:05:04] ⬇️  Downloading logo for CALI...
+[2025-08-22 09:05:04] 📍 Processing ALCBIA.WRT (46/933)
+[2025-08-22 09:05:04] ⬇️  Downloading logo for ALCBIA.WRT...
+[2025-08-22 09:05:04] ⚠️  HTTP 404 for CALI - logo may not exist
+[2025-08-22 09:05:04] ✅ Successfully downloaded AWR.svg (2.81 KB)
+[2025-08-22 09:05:04] ⚠️  HTTP 404 for ALCBIA.WRT - logo may not exist
+[2025-08-22 09:05:05] 📍 Processing CBON (539/937)
+[2025-08-22 09:05:05] ⬇️  Downloading logo for CBON...
+[2025-08-22 09:05:05] 📍 Processing BLX (3/62)
+[2025-08-22 09:05:05] ⬇️  Downloading logo for BLX...
+[2025-08-22 09:05:05] 📍 Processing 1COV (47/933)
+[2025-08-22 09:05:05] ⬇️  Downloading logo for 1COV...
+[2025-08-22 09:05:05] ⚠️  HTTP 404 for CBON - logo may not exist
+[2025-08-22 09:05:05] ⚠️  HTTP 404 for 1COV - logo may not exist
+[2025-08-22 09:05:05] ⚠️  HTTP 404 for BLX - logo may not exist
+[2025-08-22 09:05:06] 📍 Processing CEMB (540/937)
+[2025-08-22 09:05:06] ⬇️  Downloading logo for CEMB...
+[2025-08-22 09:05:06] 📍 Processing MSFT (48/933)
+[2025-08-22 09:05:06] ⏭️  Skipping MSFT - file already exists
+[2025-08-22 09:05:06] 📍 Processing COR (4/62)
+[2025-08-22 09:05:06] ⬇️  Downloading logo for COR...
+[2025-08-22 09:05:06] ⚠️  HTTP 404 for CEMB - logo may not exist
+[2025-08-22 09:05:06] 📍 Processing GOOGL (49/933)
+[2025-08-22 09:05:06] ⏭️  Skipping GOOGL - file already exists
+[2025-08-22 09:05:07] ⚠️  HTTP 404 for COR - logo may not exist
+[2025-08-22 09:05:07] 📍 Processing CLOA (541/937)
+[2025-08-22 09:05:07] ⬇️  Downloading logo for CLOA...
+[2025-08-22 09:05:07] 📍 Processing AMZN (50/933)
+[2025-08-22 09:05:07] ⏭️  Skipping AMZN - file already exists
+[2025-08-22 09:05:07] 📍 Processing JBL (5/62)
+[2025-08-22 09:05:07] ⬇️  Downloading logo for JBL...
+[2025-08-22 09:05:07] ⚠️  HTTP 404 for CLOA - logo may not exist
+[2025-08-22 09:05:07] 📍 Processing NVDA (51/933)
+[2025-08-22 09:05:07] ⏭️  Skipping NVDA - file already exists
+[2025-08-22 09:05:08] ✅ Successfully downloaded JBL.svg (1.80 KB)
+[2025-08-22 09:05:08] 📍 Processing CLOB (542/937)
+[2025-08-22 09:05:08] ⬇️  Downloading logo for CLOB...
+[2025-08-22 09:05:08] 📍 Processing INTC (52/933)
+[2025-08-22 09:05:08] ⏭️  Skipping INTC - file already exists
+[2025-08-22 09:05:08] 📍 Processing PAG (6/62)
+[2025-08-22 09:05:08] ⬇️  Downloading logo for PAG...
+[2025-08-22 09:05:08] 📍 Processing ADBE (53/933)
+[2025-08-22 09:05:08] ⏭️  Skipping ADBE - file already exists
+[2025-08-22 09:05:08] ⚠️  HTTP 404 for CLOB - logo may not exist
+[2025-08-22 09:05:09] ✅ Successfully downloaded PAG.svg (2.28 KB)
+[2025-08-22 09:05:09] 📍 Processing PEP (54/933)
+[2025-08-22 09:05:09] ⏭️  Skipping PEP - file already exists
+[2025-08-22 09:05:09] 📍 Processing CLOI (543/937)
+[2025-08-22 09:05:09] ⬇️  Downloading logo for CLOI...
+[2025-08-22 09:05:09] ⚠️  HTTP 404 for CLOI - logo may not exist
+[2025-08-22 09:05:09] 📍 Processing PECO (7/62)
+[2025-08-22 09:05:09] ⬇️  Downloading logo for PECO...
+[2025-08-22 09:05:09] 📍 Processing LLY (55/933)
+[2025-08-22 09:05:09] ⏭️  Skipping LLY - file already exists
+[2025-08-22 09:05:10] 📍 Processing CMBS (544/937)
+[2025-08-22 09:05:10] ⬇️  Downloading logo for CMBS...
+[2025-08-22 09:05:10] ⚠️  HTTP 404 for PECO - logo may not exist
+[2025-08-22 09:05:10] 📍 Processing NVO (56/933)
+[2025-08-22 09:05:10] ⏭️  Skipping NVO - file already exists
+[2025-08-22 09:05:10] ⚠️  HTTP 404 for CMBS - logo may not exist
+[2025-08-22 09:05:10] 📍 Processing BBSEY (8/62)
+[2025-08-22 09:05:10] ⬇️  Downloading logo for BBSEY...
+[2025-08-22 09:05:10] 📍 Processing AVGO (57/933)
+[2025-08-22 09:05:10] ⏭️  Skipping AVGO - file already exists
+[2025-08-22 09:05:11] 📍 Processing CMF (545/937)
+[2025-08-22 09:05:11] ⬇️  Downloading logo for CMF...
+[2025-08-22 09:05:11] ⚠️  HTTP 404 for BBSEY - logo may not exist
+[2025-08-22 09:05:11] 📍 Processing PG (58/933)
+[2025-08-22 09:05:11] ⏭️  Skipping PG - file already exists
+[2025-08-22 09:05:11] ⚠️  HTTP 404 for CMF - logo may not exist
+[2025-08-22 09:05:11] 📍 Processing KLAC (9/62)
+[2025-08-22 09:05:11] ⬇️  Downloading logo for KLAC...
+[2025-08-22 09:05:11] 📍 Processing NKE (59/933)
+[2025-08-22 09:05:11] ⏭️  Skipping NKE - file already exists
+[2025-08-22 09:05:12] 📍 Processing CPLB (546/937)
+[2025-08-22 09:05:12] ⬇️  Downloading logo for CPLB...
+[2025-08-22 09:05:12] 📍 Processing META (60/933)
+[2025-08-22 09:05:12] ⬇️  Downloading logo for META...
+[2025-08-22 09:05:12] ✅ Successfully downloaded KLAC.svg (0.38 KB)
+[2025-08-22 09:05:12] ⚠️  HTTP 404 for CPLB - logo may not exist
+[2025-08-22 09:05:13] ⚠️  HTTP 404 for META - logo may not exist
+[2025-08-22 09:05:13] 📍 Processing NLOP (10/62)
+[2025-08-22 09:05:13] ⬇️  Downloading logo for NLOP...
+[2025-08-22 09:05:13] 📍 Processing CPLS (547/937)
+[2025-08-22 09:05:13] ⬇️  Downloading logo for CPLS...
+[2025-08-22 09:05:13] 📍 Processing NFLX (61/933)
+[2025-08-22 09:05:13] ⏭️  Skipping NFLX - file already exists
+[2025-08-22 09:05:13] ⚠️  HTTP 404 for NLOP - logo may not exist
+[2025-08-22 09:05:13] ⚠️  HTTP 404 for CPLS - logo may not exist
+[2025-08-22 09:05:14] 📍 Processing CMCSA (62/933)
+[2025-08-22 09:05:14] ⏭️  Skipping CMCSA - file already exists
+[2025-08-22 09:05:14] 📍 Processing OGS (11/62)
+[2025-08-22 09:05:14] ⬇️  Downloading logo for OGS...
+[2025-08-22 09:05:14] 📍 Processing CSHP (548/937)
+[2025-08-22 09:05:14] ⬇️  Downloading logo for CSHP...
+[2025-08-22 09:05:14] 📍 Processing COST (63/933)
+[2025-08-22 09:05:14] ⏭️  Skipping COST - file already exists
+[2025-08-22 09:05:14] ✅ Successfully downloaded OGS.svg (1.36 KB)
+[2025-08-22 09:05:14] ⚠️  HTTP 404 for CSHP - logo may not exist
+[2025-08-22 09:05:15] 📍 Processing BABA (64/933)
+[2025-08-22 09:05:15] ⏭️  Skipping BABA - file already exists
+[2025-08-22 09:05:15] 📍 Processing REGN (12/62)
+[2025-08-22 09:05:15] ⬇️  Downloading logo for REGN...
+[2025-08-22 09:05:15] 📍 Processing CWB (549/937)
+[2025-08-22 09:05:15] ⬇️  Downloading logo for CWB...
+[2025-08-22 09:05:15] 📍 Processing BIDU (65/933)
+[2025-08-22 09:05:15] ⏭️  Skipping BIDU - file already exists
+[2025-08-22 09:05:15] ✅ Successfully downloaded REGN.svg (0.73 KB)
+[2025-08-22 09:05:15] ⚠️  HTTP 404 for CWB - logo may not exist
+[2025-08-22 09:05:16] 📍 Processing JD (66/933)
+[2025-08-22 09:05:16] ⬇️  Downloading logo for JD...
+[2025-08-22 09:05:16] 📍 Processing BKOR (13/62)
+[2025-08-22 09:05:16] ⬇️  Downloading logo for BKOR...
+[2025-08-22 09:05:16] 📍 Processing EAGG (550/937)
+[2025-08-22 09:05:16] ⬇️  Downloading logo for EAGG...
+[2025-08-22 09:05:16] ⚠️  HTTP 404 for JD - logo may not exist
+[2025-08-22 09:05:17] ⚠️  HTTP 404 for BKOR - logo may not exist
+[2025-08-22 09:05:17] ⚠️  HTTP 404 for EAGG - logo may not exist
+[2025-08-22 09:05:17] 📍 Processing PDD (67/933)
+[2025-08-22 09:05:17] ⏭️  Skipping PDD - file already exists
+[2025-08-22 09:05:17] 📍 Processing BLMN (14/62)
+[2025-08-22 09:05:17] ⬇️  Downloading logo for BLMN...
+[2025-08-22 09:05:17] 📍 Processing EBND (551/937)
+[2025-08-22 09:05:17] ⬇️  Downloading logo for EBND...
+[2025-08-22 09:05:17] 📍 Processing NIO (68/933)
+[2025-08-22 09:05:17] ⏭️  Skipping NIO - file already exists
+[2025-08-22 09:05:17] ✅ Successfully downloaded BLMN.svg (3.96 KB)
+[2025-08-22 09:05:18] 📍 Processing TCEHY (69/933)
+[2025-08-22 09:05:18] ⬇️  Downloading logo for TCEHY...
+[2025-08-22 09:05:18] ⚠️  HTTP 404 for EBND - logo may not exist
+[2025-08-22 09:05:18] 📍 Processing FTI (15/62)
+[2025-08-22 09:05:18] ⬇️  Downloading logo for FTI...
+[2025-08-22 09:05:18] 📍 Processing EINC (552/937)
+[2025-08-22 09:05:18] ⬇️  Downloading logo for EINC...
+[2025-08-22 09:05:18] ⚠️  HTTP 404 for TCEHY - logo may not exist
+[2025-08-22 09:05:19] ✅ Successfully downloaded FTI.svg (0.68 KB)
+[2025-08-22 09:05:19] ⚠️  HTTP 404 for EINC - logo may not exist
+[2025-08-22 09:05:19] 📍 Processing NTES (70/933)
+[2025-08-22 09:05:19] ⏭️  Skipping NTES - file already exists
+[2025-08-22 09:05:19] 📍 Processing AGO (16/62)
+[2025-08-22 09:05:19] ⬇️  Downloading logo for AGO...
+[2025-08-22 09:05:19] 📍 Processing ELQD (553/937)
+[2025-08-22 09:05:19] ⬇️  Downloading logo for ELQD...
+[2025-08-22 09:05:19] 📍 Processing TAL (71/933)
+[2025-08-22 09:05:19] ⏭️  Skipping TAL - file already exists
+[2025-08-22 09:05:20] ✅ Successfully downloaded AGO.svg (13.97 KB)
+[2025-08-22 09:05:20] 📍 Processing YUMC (72/933)
+[2025-08-22 09:05:20] ⏭️  Skipping YUMC - file already exists
+[2025-08-22 09:05:20] ⚠️  HTTP 404 for ELQD - logo may not exist
+[2025-08-22 09:05:20] 📍 Processing AVIKF (17/62)
+[2025-08-22 09:05:20] ⬇️  Downloading logo for AVIKF...
+[2025-08-22 09:05:20] 📍 Processing LI (73/933)
+[2025-08-22 09:05:20] ⬇️  Downloading logo for LI...
+[2025-08-22 09:05:20] 📍 Processing EMB (554/937)
+[2025-08-22 09:05:20] ⬇️  Downloading logo for EMB...
+[2025-08-22 09:05:21] ⚠️  HTTP 404 for AVIKF - logo may not exist
+[2025-08-22 09:05:21] ⚠️  HTTP 404 for LI - logo may not exist
+[2025-08-22 09:05:21] ⚠️  HTTP 404 for EMB - logo may not exist
+[2025-08-22 09:05:21] 📍 Processing BGC (18/62)
+[2025-08-22 09:05:21] ⬇️  Downloading logo for BGC...
+[2025-08-22 09:05:21] 📍 Processing TGT (74/933)
+[2025-08-22 09:05:21] ⏭️  Skipping TGT - file already exists
+[2025-08-22 09:05:21] 📍 Processing EMHC (555/937)
+[2025-08-22 09:05:21] ⬇️  Downloading logo for EMHC...
+[2025-08-22 09:05:22] ⚠️  HTTP 404 for BGC - logo may not exist
+[2025-08-22 09:05:22] 📍 Processing DIS (75/933)
+[2025-08-22 09:05:22] ⏭️  Skipping DIS - file already exists
+[2025-08-22 09:05:22] ⚠️  HTTP 404 for EMHC - logo may not exist
+[2025-08-22 09:05:22] 📍 Processing BLMIF (19/62)
+[2025-08-22 09:05:22] ⬇️  Downloading logo for BLMIF...
+[2025-08-22 09:05:22] 📍 Processing SPOT (76/933)
+[2025-08-22 09:05:22] ⏭️  Skipping SPOT - file already exists
+[2025-08-22 09:05:22] 📍 Processing EMHY (556/937)
+[2025-08-22 09:05:22] ⬇️  Downloading logo for EMHY...
+[2025-08-22 09:05:22] ⚠️  HTTP 404 for EMHY - logo may not exist
+[2025-08-22 09:05:23] ⚠️  HTTP 404 for BLMIF - logo may not exist
+[2025-08-22 09:05:23] 📍 Processing XPEV (77/933)
+[2025-08-22 09:05:23] ⏭️  Skipping XPEV - file already exists
+[2025-08-22 09:05:23] 📍 Processing EMLC (557/937)
+[2025-08-22 09:05:23] ⬇️  Downloading logo for EMLC...
+[2025-08-22 09:05:23] 📍 Processing DRS (20/62)
+[2025-08-22 09:05:23] ⬇️  Downloading logo for DRS...
+[2025-08-22 09:05:23] 📍 Processing VIPS (78/933)
+[2025-08-22 09:05:23] ⏭️  Skipping VIPS - file already exists
+[2025-08-22 09:05:24] ⚠️  HTTP 404 for EMLC - logo may not exist
+[2025-08-22 09:05:24] 📍 Processing PFE (79/933)
+[2025-08-22 09:05:24] ⏭️  Skipping PFE - file already exists
+[2025-08-22 09:05:24] ⚠️  HTTP 404 for DRS - logo may not exist
+[2025-08-22 09:05:24] 📍 Processing EMTL (558/937)
+[2025-08-22 09:05:24] ⬇️  Downloading logo for EMTL...
+[2025-08-22 09:05:24] 📍 Processing HAS (21/62)
+[2025-08-22 09:05:24] 📍 Processing MRK (80/933)
+[2025-08-22 09:05:24] ⬇️  Downloading logo for HAS...
+[2025-08-22 09:05:24] ⏭️  Skipping MRK - file already exists
+[2025-08-22 09:05:25] ⚠️  HTTP 404 for EMTL - logo may not exist
+[2025-08-22 09:05:25] ✅ Successfully downloaded HAS.svg (5.85 KB)
+[2025-08-22 09:05:25] 📍 Processing BRK.A (81/933)
+[2025-08-22 09:05:25] ⏭️  Skipping BRK.A - file already exists
+[2025-08-22 09:05:25] 📍 Processing KELYA (22/62)
+[2025-08-22 09:05:25] ⬇️  Downloading logo for KELYA...
+[2025-08-22 09:05:25] 📍 Processing CRM (82/933)
+[2025-08-22 09:05:25] ⏭️  Skipping CRM - file already exists
+[2025-08-22 09:05:25] ✅ Successfully downloaded KELYA.svg (0.35 KB)
+[2025-08-22 09:05:26] 📍 Processing KELYB (23/62)
+[2025-08-22 09:05:26] ⬇️  Downloading logo for KELYB...
+[2025-08-22 09:05:27] ⚠️  HTTP 404 for KELYB - logo may not exist
+[2025-08-22 09:05:27] 📍 Processing MKTX (24/62)
+[2025-08-22 09:05:27] ⬇️  Downloading logo for MKTX...
+[2025-08-22 09:05:27] ✅ Successfully downloaded MKTX.svg (1.57 KB)
+[2025-08-22 09:05:28] 📍 Processing ORA (25/62)
+[2025-08-22 09:05:28] ⬇️  Downloading logo for ORA...
+[2025-08-22 09:05:28] ✅ Successfully downloaded ORA.svg (1.39 KB)
+[2025-08-22 09:05:29] 📍 Processing OSW (26/62)
+[2025-08-22 09:05:29] ⬇️  Downloading logo for OSW...
+[2025-08-22 09:05:30] ✅ Successfully downloaded OSW.svg (2.55 KB)
+[2025-08-22 09:05:30] 📍 Processing PPC (27/62)
+[2025-08-22 09:05:30] ⬇️  Downloading logo for PPC...
+[2025-08-22 09:05:31] ✅ Successfully downloaded PPC.svg (1.08 KB)
+[2025-08-22 09:05:31] 📍 Processing WMG (28/62)
+[2025-08-22 09:05:31] ⬇️  Downloading logo for WMG...
+[2025-08-22 09:05:32] ✅ Successfully downloaded WMG.svg (0.98 KB)
+[2025-08-22 09:05:33] 📍 Processing MCHVF (29/62)
+[2025-08-22 09:05:33] ⬇️  Downloading logo for MCHVF...
+[2025-08-22 09:05:33] ⚠️  HTTP 404 for MCHVF - logo may not exist
+[2025-08-22 09:05:34] 📍 Processing TRMD (30/62)
+[2025-08-22 09:05:34] ⬇️  Downloading logo for TRMD...
+[2025-08-22 09:05:34] ⚠️  HTTP 404 for TRMD - logo may not exist
+[2025-08-22 09:05:35] 📍 Processing RLEVF (31/62)
+[2025-08-22 09:05:35] ⬇️  Downloading logo for RLEVF...
+[2025-08-22 09:05:35] ⚠️  HTTP 404 for RLEVF - logo may not exist
+[2025-08-22 09:05:36] 📍 Processing SMA (32/62)
+[2025-08-22 09:05:36] ⬇️  Downloading logo for SMA...
+[2025-08-22 09:05:36] ⚠️  HTTP 404 for SMA - logo may not exist
+[2025-08-22 09:05:37] 📍 Processing STSFF (33/62)
+[2025-08-22 09:05:37] ⬇️  Downloading logo for STSFF...
+[2025-08-22 09:05:37] ⚠️  HTTP 404 for STSFF - logo may not exist
+[2025-08-22 09:05:38] 📍 Processing BTGGF (34/62)
+[2025-08-22 09:05:38] ⬇️  Downloading logo for BTGGF...
+[2025-08-22 09:05:38] ⚠️  HTTP 404 for BTGGF - logo may not exist
+[2025-08-22 09:05:39] 📍 Processing KBYPF (35/62)
+[2025-08-22 09:05:39] ⬇️  Downloading logo for KBYPF...
+[2025-08-22 09:05:39] ⚠️  HTTP 404 for KBYPF - logo may not exist
+[2025-08-22 09:05:40] 📍 Processing KNBWF (36/62)
+[2025-08-22 09:05:40] ⬇️  Downloading logo for KNBWF...
+[2025-08-22 09:05:41] ⚠️  HTTP 404 for KNBWF - logo may not exist
+[2025-08-22 09:05:41] 📍 Processing SSDOF (37/62)
+[2025-08-22 09:05:41] ⬇️  Downloading logo for SSDOF...
+[2025-08-22 09:05:42] ⚠️  HTTP 404 for SSDOF - logo may not exist
+[2025-08-22 09:05:42] 📍 Processing STBFF (38/62)
+[2025-08-22 09:05:42] ⬇️  Downloading logo for STBFF...
+[2025-08-22 09:05:43] ⚠️  HTTP 404 for STBFF - logo may not exist
+[2025-08-22 09:05:43] 📍 Processing SUMCF (39/62)
+[2025-08-22 09:05:43] ⬇️  Downloading logo for SUMCF...
+[2025-08-22 09:05:44] ⚠️  HTTP 404 for SUMCF - logo may not exist
+[2025-08-22 09:05:44] 📍 Processing TOAGF (40/62)
+[2025-08-22 09:05:44] ⬇️  Downloading logo for TOAGF...
+[2025-08-22 09:05:45] ⚠️  HTTP 404 for TOAGF - logo may not exist
+[2025-08-22 09:05:45] 📍 Processing SHKLF (41/62)
+[2025-08-22 09:05:45] ⬇️  Downloading logo for SHKLF...
+[2025-08-22 09:05:46] ⚠️  HTTP 404 for SHKLF - logo may not exist
+[2025-08-22 09:05:46] 📍 Processing JELCF (42/62)
+[2025-08-22 09:05:46] ⬇️  Downloading logo for JELCF...
+[2025-08-22 09:05:47] ⚠️  HTTP 404 for JELCF - logo may not exist
+[2025-08-22 09:05:47] 📍 Processing PEGRF (43/62)
+[2025-08-22 09:05:47] ⬇️  Downloading logo for PEGRF...
+[2025-08-22 09:05:48] ⚠️  HTTP 404 for PEGRF - logo may not exist
+[2025-08-22 09:05:48] 📍 Processing CJEWY (44/62)
+[2025-08-22 09:05:48] ⬇️  Downloading logo for CJEWY...
+[2025-08-22 09:05:49] ⚠️  HTTP 404 for CJEWY - logo may not exist
+[2025-08-22 09:05:49] 📍 Processing WFRD (45/62)
+[2025-08-22 09:05:49] ⬇️  Downloading logo for WFRD...
+[2025-08-22 09:05:50] ✅ Successfully downloaded WFRD.svg (0.31 KB)
+[2025-08-22 09:05:50] 📍 Processing MATX (46/62)
+[2025-08-22 09:05:50] ⬇️  Downloading logo for MATX...
+[2025-08-22 09:05:51] ✅ Successfully downloaded MATX.svg (3.39 KB)
+[2025-08-22 09:05:51] 📍 Processing AER (47/62)
+[2025-08-22 09:05:51] ⬇️  Downloading logo for AER...
+[2025-08-22 09:05:52] ✅ Successfully downloaded AER.svg (3.72 KB)
+[2025-08-22 09:05:52] 📍 Processing EXE (48/62)
+[2025-08-22 09:05:52] ⬇️  Downloading logo for EXE...
+[2025-08-22 09:05:53] ⚠️  HTTP 404 for EXE - logo may not exist
+[2025-08-22 09:05:53] 📍 Processing HSNGF (49/62)
+[2025-08-22 09:05:53] ⬇️  Downloading logo for HSNGF...
+[2025-08-22 09:05:54] ⚠️  HTTP 404 for HSNGF - logo may not exist
+[2025-08-22 09:05:54] 📍 Processing IR (50/62)
+[2025-08-22 09:05:54] ⬇️  Downloading logo for IR...
+[2025-08-22 09:05:55] ✅ Successfully downloaded IR.svg (1.22 KB)
+[2025-08-22 09:05:56] 📍 Processing PCAR (51/62)
+[2025-08-22 09:05:56] ⬇️  Downloading logo for PCAR...
+[2025-08-22 09:05:56] ✅ Successfully downloaded PCAR.svg (1.69 KB)
+[2025-08-22 09:05:57] 📍 Processing PROV (52/62)
+[2025-08-22 09:05:57] ⬇️  Downloading logo for PROV...
+[2025-08-22 09:05:57] ⚠️  HTTP 404 for PROV - logo may not exist
+[2025-08-22 09:05:58] 📍 Processing TJX (53/62)
+[2025-08-22 09:05:58] ⬇️  Downloading logo for TJX...
+[2025-08-22 09:05:58] ✅ Successfully downloaded TJX.svg (0.71 KB)
+[2025-08-22 09:05:59] 📍 Processing RTX (54/62)
+[2025-08-22 09:05:59] ⬇️  Downloading logo for RTX...
+[2025-08-22 09:05:59] ✅ Successfully downloaded RTX.svg (2.57 KB)
+[2025-08-22 09:06:00] 📍 Processing SCCO (55/62)
+[2025-08-22 09:06:00] ⬇️  Downloading logo for SCCO...
+[2025-08-22 09:06:00] ✅ Successfully downloaded SCCO.svg (2.00 KB)
+[2025-08-22 09:06:01] 📍 Processing CNA (56/62)
+[2025-08-22 09:06:01] ⬇️  Downloading logo for CNA...
+[2025-08-22 09:06:01] ✅ Successfully downloaded CNA.svg (0.73 KB)
+[2025-08-22 09:06:02] 📍 Processing DBSDY (57/62)
+[2025-08-22 09:06:02] ⬇️  Downloading logo for DBSDY...
+[2025-08-22 09:06:02] ⚠️  HTTP 404 for DBSDY - logo may not exist
+[2025-08-22 09:06:03] 📍 Processing NNGRY (58/62)
+[2025-08-22 09:06:03] ⬇️  Downloading logo for NNGRY...
+[2025-08-22 09:06:03] ⚠️  HTTP 404 for NNGRY - logo may not exist
+[2025-08-22 09:06:04] 📍 Processing UPS (59/62)
+[2025-08-22 09:06:04] ⬇️  Downloading logo for UPS...
+[2025-08-22 09:06:05] ✅ Successfully downloaded UPS.svg (1.82 KB)
+[2025-08-22 09:06:05] 📍 Processing GPRK (60/62)
+[2025-08-22 09:06:05] ⬇️  Downloading logo for GPRK...
+[2025-08-22 09:06:05] ⚠️  HTTP 404 for GPRK - logo may not exist
+[2025-08-22 09:06:06] 📍 Processing HKTTF (61/62)
+[2025-08-22 09:06:06] ⬇️  Downloading logo for HKTTF...
+[2025-08-22 09:06:06] ⚠️  HTTP 404 for HKTTF - logo may not exist
+[2025-08-22 09:06:07] 📍 Processing PRG (62/62)
+[2025-08-22 09:06:07] ⬇️  Downloading logo for PRG...
+[2025-08-22 09:06:07] ✅ Successfully downloaded PRG.svg (0.63 KB)
+[2025-08-22 09:06:08] 🎉 Download process completed in 66 seconds
+[2025-08-22 09:06:08] 📊 Final Statistics:
+[2025-08-22 09:06:08]    - Total tickers: 62
+[2025-08-22 09:06:08]    - Successfully downloaded: 28
+[2025-08-22 09:06:08]    - Skipped (already exist): 0
+[2025-08-22 09:06:08]    - Not found: 34
+[2025-08-22 09:06:08]    - Errors: 0
+[2025-08-22 09:06:31] 🚀 Starting stock logo download process...
+[2025-08-22 09:06:31] ℹ️ Using start ID: 800
+[2025-08-22 09:06:31] 🔍 Fetching tickers from API...
+[2025-08-22 09:06:31] 🔍 Starting from ID 800
+[2025-08-22 09:06:31] 📊 Found 162 tickers from API
+[2025-08-22 09:06:31] 📍 Processing VCCLF (1/162)
+[2025-08-22 09:06:31] ⬇️  Downloading logo for VCCLF...
+[2025-08-22 09:06:32] ⚠️  HTTP 404 for VCCLF - logo may not exist
+[2025-08-22 09:06:33] 📍 Processing HUNGF (2/162)
+[2025-08-22 09:06:33] ⏭️  Skipping HUNGF - file already exists
+[2025-08-22 09:06:33] 📍 Processing CUCSY (3/162)
+[2025-08-22 09:06:33] ⏭️  Skipping CUCSY - file already exists
+[2025-08-22 09:06:34] 📍 Processing GNENY (4/162)
+[2025-08-22 09:06:34] ⏭️  Skipping GNENY - file already exists
+[2025-08-22 09:06:34] 📍 Processing LZRFY (5/162)
+[2025-08-22 09:06:34] ⏭️  Skipping LZRFY - file already exists
+[2025-08-22 09:06:35] 📍 Processing HALMY (6/162)
+[2025-08-22 09:06:35] ⏭️  Skipping HALMY - file already exists
+[2025-08-22 09:06:35] 📍 Processing WRIV (7/162)
+[2025-08-22 09:06:35] ⏭️  Skipping WRIV - file already exists
+[2025-08-22 09:06:36] 📍 Processing CRWKF (8/162)
+[2025-08-22 09:06:36] ⏭️  Skipping CRWKF - file already exists
+[2025-08-22 09:06:36] 📍 Processing CSDXF (9/162)
+[2025-08-22 09:06:36] ⏭️  Skipping CSDXF - file already exists
+[2025-08-22 09:06:37] 📍 Processing NBPVF (10/162)
+[2025-08-22 09:06:37] ⬇️  Downloading logo for NBPVF...
+[2025-08-22 09:06:37] ⚠️  HTTP 404 for NBPVF - logo may not exist
+[2025-08-22 09:06:38] 📍 Processing PAYX (11/162)
+[2025-08-22 09:06:38] ⏭️  Skipping PAYX - file already exists
+[2025-08-22 09:06:38] 📍 Processing CYLTF (12/162)
+[2025-08-22 09:06:38] ⏭️  Skipping CYLTF - file already exists
+[2025-08-22 09:06:39] 📍 Processing MLLUY (13/162)
+[2025-08-22 09:06:39] ⏭️  Skipping MLLUY - file already exists
+[2025-08-22 09:06:39] 📍 Processing BREUF (14/162)
+[2025-08-22 09:06:39] ⏭️  Skipping BREUF - file already exists
+[2025-08-22 09:06:40] 📍 Processing EARN (15/162)
+[2025-08-22 09:06:40] ⏭️  Skipping EARN - file already exists
+[2025-08-22 09:06:40] 📍 Processing EFC (16/162)
+[2025-08-22 09:06:40] ⏭️  Skipping EFC - file already exists
+[2025-08-22 09:06:41] 📍 Processing PSTL (17/162)
+[2025-08-22 09:06:41] ⏭️  Skipping PSTL - file already exists
+[2025-08-22 09:06:41] 📍 Processing SBBSF (18/162)
+[2025-08-22 09:06:41] ⏭️  Skipping SBBSF - file already exists
+[2025-08-22 09:06:42] 📍 Processing SPSTY (19/162)
+[2025-08-22 09:06:42] ⏭️  Skipping SPSTY - file already exists
+[2025-08-22 09:06:42] 📍 Processing LW (20/162)
+[2025-08-22 09:06:42] ⏭️  Skipping LW - file already exists
+[2025-08-22 09:06:43] 📍 Processing PNFP (21/162)
+[2025-08-22 09:06:43] ⏭️  Skipping PNFP - file already exists
+[2025-08-22 09:06:43] 📍 Processing SURVF (22/162)
+[2025-08-22 09:06:43] ⬇️  Downloading logo for SURVF...
+[2025-08-22 09:06:44] ⚠️  HTTP 404 for SURVF - logo may not exist
+[2025-08-22 09:06:44] 📍 Processing NVEC (23/162)
+[2025-08-22 09:06:44] ⬇️  Downloading logo for NVEC...
+[2025-08-22 09:06:45] ⚠️  HTTP 404 for NVEC - logo may not exist
+[2025-08-22 09:06:45] 📍 Processing NXG (24/162)
+[2025-08-22 09:06:45] ⬇️  Downloading logo for NXG...
+[2025-08-22 09:06:46] ⚠️  HTTP 404 for NXG - logo may not exist
+[2025-08-22 09:06:46] 📍 Processing PSZKY (25/162)
+[2025-08-22 09:06:46] ⬇️  Downloading logo for PSZKY...
+[2025-08-22 09:06:47] ⚠️  HTTP 404 for PSZKY - logo may not exist
+[2025-08-22 09:06:47] 📍 Processing ATTRF (26/162)
+[2025-08-22 09:06:47] ⬇️  Downloading logo for ATTRF...
+[2025-08-22 09:06:48] ⚠️  HTTP 404 for ATTRF - logo may not exist
+[2025-08-22 09:06:49] 📍 Processing BPRN (27/162)
+[2025-08-22 09:06:49] ⬇️  Downloading logo for BPRN...
+[2025-08-22 09:06:49] ⚠️  HTTP 404 for BPRN - logo may not exist
+[2025-08-22 09:06:50] 📍 Processing CDHSF (28/162)
+[2025-08-22 09:06:50] ⬇️  Downloading logo for CDHSF...
+[2025-08-22 09:06:50] ⚠️  HTTP 404 for CDHSF - logo may not exist
+[2025-08-22 09:06:51] 📍 Processing CMS (29/162)
+[2025-08-22 09:06:51] ⏭️  Skipping CMS - file already exists
+[2025-08-22 09:06:51] 📍 Processing DAN (30/162)
+[2025-08-22 09:06:51] ⏭️  Skipping DAN - file already exists
+[2025-08-22 09:06:52] 📍 Processing DIT (31/162)
+[2025-08-22 09:06:52] ⬇️  Downloading logo for DIT...
+[2025-08-22 09:06:52] ⚠️  HTTP 404 for DIT - logo may not exist
+[2025-08-22 09:06:53] 📍 Processing EGBN (32/162)
+[2025-08-22 09:06:53] ⏭️  Skipping EGBN - file already exists
+[2025-08-22 09:06:53] 📍 Processing KIO (33/162)
+[2025-08-22 09:06:53] ⬇️  Downloading logo for KIO...
+[2025-08-22 09:06:54] ⚠️  HTTP 404 for KIO - logo may not exist
+[2025-08-22 09:06:54] 📍 Processing LMT (34/162)
+[2025-08-22 09:06:54] ⬇️  Downloading logo for LMT...
+[2025-08-22 09:06:55] ✅ Successfully downloaded LMT.svg (1.09 KB)
+[2025-08-22 09:06:55] 📍 Processing CLPXY (35/162)
+[2025-08-22 09:06:55] ⬇️  Downloading logo for CLPXY...
+[2025-08-22 09:06:56] ⚠️  HTTP 404 for CLPXY - logo may not exist
+[2025-08-22 09:06:56] 📍 Processing CHCJY (36/162)
+[2025-08-22 09:06:56] ⬇️  Downloading logo for CHCJY...
+[2025-08-22 09:06:57] ⚠️  HTTP 404 for CHCJY - logo may not exist
+[2025-08-22 09:06:57] 📍 Processing DAWIF (37/162)
+[2025-08-22 09:06:57] ⬇️  Downloading logo for DAWIF...
+[2025-08-22 09:06:58] ⚠️  HTTP 404 for DAWIF - logo may not exist
+[2025-08-22 09:06:58] 📍 Processing LIOPF (38/162)
+[2025-08-22 09:06:58] ⬇️  Downloading logo for LIOPF...
+[2025-08-22 09:06:59] ⚠️  HTTP 404 for LIOPF - logo may not exist
+[2025-08-22 09:06:59] 📍 Processing SHMDF (39/162)
+[2025-08-22 09:06:59] ⬇️  Downloading logo for SHMDF...
+[2025-08-22 09:07:00] ⚠️  HTTP 404 for SHMDF - logo may not exist
+[2025-08-22 09:07:00] 📍 Processing UNCHF (40/162)
+[2025-08-22 09:07:00] ⬇️  Downloading logo for UNCHF...
+[2025-08-22 09:07:01] ⚠️  HTTP 404 for UNCHF - logo may not exist
+[2025-08-22 09:07:01] 📍 Processing ASG (41/162)
+[2025-08-22 09:07:01] ⬇️  Downloading logo for ASG...
+[2025-08-22 09:07:02] ⚠️  HTTP 404 for ASG - logo may not exist
+[2025-08-22 09:07:03] 📍 Processing SHZNY (42/162)
+[2025-08-22 09:07:03] ⬇️  Downloading logo for SHZNY...
+[2025-08-22 09:07:03] ⚠️  HTTP 404 for SHZNY - logo may not exist
+[2025-08-22 09:07:04] 📍 Processing USA (43/162)
+[2025-08-22 09:07:04] ⬇️  Downloading logo for USA...
+[2025-08-22 09:07:04] ⚠️  HTTP 404 for USA - logo may not exist
+[2025-08-22 09:07:05] 📍 Processing BCO (44/162)
+[2025-08-22 09:07:05] ⬇️  Downloading logo for BCO...
+[2025-08-22 09:07:06] ✅ Successfully downloaded BCO.svg (2.16 KB)
+[2025-08-22 09:07:06] 📍 Processing VLO (45/162)
+[2025-08-22 09:07:06] ⬇️  Downloading logo for VLO...
+[2025-08-22 09:07:07] ✅ Successfully downloaded VLO.svg (2.02 KB)
+[2025-08-22 09:07:07] 📍 Processing PBNAF (46/162)
+[2025-08-22 09:07:07] ⬇️  Downloading logo for PBNAF...
+[2025-08-22 09:07:08] ⚠️  HTTP 404 for PBNAF - logo may not exist
+[2025-08-22 09:07:08] 📍 Processing PMBPF (47/162)
+[2025-08-22 09:07:08] ⬇️  Downloading logo for PMBPF...
+[2025-08-22 09:07:08] ⚠️  HTTP 404 for PMBPF - logo may not exist
+[2025-08-22 09:07:09] 📍 Processing PMMBF (48/162)
+[2025-08-22 09:07:09] ⬇️  Downloading logo for PMMBF...
+[2025-08-22 09:07:09] ⚠️  HTTP 404 for PMMBF - logo may not exist
+[2025-08-22 09:07:10] 📍 Processing PNW (49/162)
+[2025-08-22 09:07:10] ⬇️  Downloading logo for PNW...
+[2025-08-22 09:07:11] ✅ Successfully downloaded PNW.svg (0.93 KB)
+[2025-08-22 09:07:11] 📍 Processing PPLAF (50/162)
+[2025-08-22 09:07:11] ⬇️  Downloading logo for PPLAF...
+[2025-08-22 09:07:12] ⚠️  HTTP 404 for PPLAF - logo may not exist
+[2025-08-22 09:07:12] 📍 Processing CSV (51/162)
+[2025-08-22 09:07:12] ⬇️  Downloading logo for CSV...
+[2025-08-22 09:07:13] ✅ Successfully downloaded CSV.svg (9.10 KB)
+[2025-08-22 09:07:13] 📍 Processing MCBI (52/162)
+[2025-08-22 09:07:13] ⬇️  Downloading logo for MCBI...
+[2025-08-22 09:07:14] ⚠️  HTTP 404 for MCBI - logo may not exist
+[2025-08-22 09:07:14] 📍 Processing SXT (53/162)
+[2025-08-22 09:07:14] ⬇️  Downloading logo for SXT...
+[2025-08-22 09:07:15] ✅ Successfully downloaded SXT.svg (3.27 KB)
+[2025-08-22 09:07:16] 📍 Processing BMYMP (54/162)
+[2025-08-22 09:07:16] ⬇️  Downloading logo for BMYMP...
+[2025-08-22 09:07:16] ⚠️  HTTP 404 for BMYMP - logo may not exist
+[2025-08-22 09:07:17] 📍 Processing IDA (55/162)
+[2025-08-22 09:07:17] ⬇️  Downloading logo for IDA...
+[2025-08-22 09:07:18] ✅ Successfully downloaded IDA.svg (2.80 KB)
+[2025-08-22 09:07:18] 📍 Processing EQT (56/162)
+[2025-08-22 09:07:18] ⬇️  Downloading logo for EQT...
+[2025-08-22 09:07:19] ✅ Successfully downloaded EQT.svg (2.10 KB)
+[2025-08-22 09:07:19] 📍 Processing TFC (57/162)
+[2025-08-22 09:07:19] ⬇️  Downloading logo for TFC...
+[2025-08-22 09:07:20] ✅ Successfully downloaded TFC.svg (0.52 KB)
+[2025-08-22 09:07:20] 📍 Processing EAD (58/162)
+[2025-08-22 09:07:20] ⬇️  Downloading logo for EAD...
+[2025-08-22 09:07:21] ⚠️  HTTP 404 for EAD - logo may not exist
+[2025-08-22 09:07:21] 📍 Processing ERC (59/162)
+[2025-08-22 09:07:21] ⬇️  Downloading logo for ERC...
+[2025-08-22 09:07:22] ⚠️  HTTP 404 for ERC - logo may not exist
+[2025-08-22 09:07:22] 📍 Processing ERH (60/162)
+[2025-08-22 09:07:22] ⬇️  Downloading logo for ERH...
+[2025-08-22 09:07:23] ⚠️  HTTP 404 for ERH - logo may not exist
+[2025-08-22 09:07:24] 📍 Processing F (61/162)
+[2025-08-22 09:07:24] ⬇️  Downloading logo for F...
+[2025-08-22 09:07:24] ✅ Successfully downloaded F.svg (7.41 KB)
+[2025-08-22 09:07:25] 📍 Processing HTO (62/162)
+[2025-08-22 09:07:25] ⬇️  Downloading logo for HTO...
+[2025-08-22 09:07:25] ⚠️  HTTP 404 for HTO - logo may not exist
+[2025-08-22 09:07:26] 📍 Processing MGY (63/162)
+[2025-08-22 09:07:26] ⬇️  Downloading logo for MGY...
+[2025-08-22 09:07:27] ✅ Successfully downloaded MGY.svg (24.33 KB)
+[2025-08-22 09:07:27] 📍 Processing PAXS (64/162)
+[2025-08-22 09:07:27] ⬇️  Downloading logo for PAXS...
+[2025-08-22 09:07:28] ⚠️  HTTP 404 for PAXS - logo may not exist
+[2025-08-22 09:07:28] 📍 Processing PCM (65/162)
+[2025-08-22 09:07:28] ⬇️  Downloading logo for PCM...
+[2025-08-22 09:07:29] ⚠️  HTTP 404 for PCM - logo may not exist
+[2025-08-22 09:07:29] 📍 Processing PCN (66/162)
+[2025-08-22 09:07:29] ⬇️  Downloading logo for PCN...
+[2025-08-22 09:07:30] ⚠️  HTTP 404 for PCN - logo may not exist
+[2025-08-22 09:07:30] 📍 Processing PCQ (67/162)
+[2025-08-22 09:07:30] ⬇️  Downloading logo for PCQ...
+[2025-08-22 09:07:31] ⚠️  HTTP 404 for PCQ - logo may not exist
+[2025-08-22 09:07:31] 📍 Processing PDI (68/162)
+[2025-08-22 09:07:31] ⬇️  Downloading logo for PDI...
+[2025-08-22 09:07:32] ⚠️  HTTP 404 for PDI - logo may not exist
+[2025-08-22 09:07:32] 📍 Processing PDO (69/162)
+[2025-08-22 09:07:32] ⬇️  Downloading logo for PDO...
+[2025-08-22 09:07:33] ⚠️  HTTP 404 for PDO - logo may not exist
+[2025-08-22 09:07:33] 📍 Processing PDX (70/162)
+[2025-08-22 09:07:33] ⬇️  Downloading logo for PDX...
+[2025-08-22 09:07:34] ⚠️  HTTP 404 for PDX - logo may not exist
+[2025-08-22 09:07:34] 📍 Processing PFL (71/162)
+[2025-08-22 09:07:34] ⬇️  Downloading logo for PFL...
+[2025-08-22 09:07:35] ⚠️  HTTP 404 for PFL - logo may not exist
+[2025-08-22 09:07:36] 📍 Processing PFN (72/162)
+[2025-08-22 09:07:36] ⬇️  Downloading logo for PFN...
+[2025-08-22 09:07:36] ⚠️  HTTP 404 for PFN - logo may not exist
+[2025-08-22 09:07:37] 📍 Processing PGP (73/162)
+[2025-08-22 09:07:37] ⬇️  Downloading logo for PGP...
+[2025-08-22 09:07:37] ⚠️  HTTP 404 for PGP - logo may not exist
+[2025-08-22 09:07:38] 📍 Processing PHK (74/162)
+[2025-08-22 09:07:38] ⬇️  Downloading logo for PHK...
+[2025-08-22 09:07:38] ⚠️  HTTP 404 for PHK - logo may not exist
+[2025-08-22 09:07:38] 📍 Processing PML (75/162)
+[2025-08-22 09:07:38] ⬇️  Downloading logo for PML...
+[2025-08-22 09:07:39] ⚠️  HTTP 404 for PML - logo may not exist
+[2025-08-22 09:07:39] 📍 Processing PNI (76/162)
+[2025-08-22 09:07:39] ⬇️  Downloading logo for PNI...
+[2025-08-22 09:07:40] ⚠️  HTTP 404 for PNI - logo may not exist
+[2025-08-22 09:07:40] 📍 Processing PTY (77/162)
+[2025-08-22 09:07:40] ⬇️  Downloading logo for PTY...
+[2025-08-22 09:07:41] ⚠️  HTTP 404 for PTY - logo may not exist
+[2025-08-22 09:07:41] 📍 Processing RCS (78/162)
+[2025-08-22 09:07:41] ⬇️  Downloading logo for RCS...
+[2025-08-22 09:07:42] ⚠️  HTTP 404 for RCS - logo may not exist
+[2025-08-22 09:07:42] 📍 Processing KEFI (79/162)
+[2025-08-22 09:07:42] ⬇️  Downloading logo for KEFI...
+[2025-08-22 09:07:43] ⚠️  HTTP 404 for KEFI - logo may not exist
+[2025-08-22 09:07:43] 📍 Processing WTRG (80/162)
+[2025-08-22 09:07:43] ⬇️  Downloading logo for WTRG...
+[2025-08-22 09:07:44] ✅ Successfully downloaded WTRG.svg (1.41 KB)
+[2025-08-22 09:07:44] 📍 Processing ETR (81/162)
+[2025-08-22 09:07:44] ⬇️  Downloading logo for ETR...
+[2025-08-22 09:07:45] ✅ Successfully downloaded ETR.svg (0.88 KB)
+[2025-08-22 09:07:46] 📍 Processing PEXNY (82/162)
+[2025-08-22 09:07:46] ⬇️  Downloading logo for PEXNY...
+[2025-08-22 09:07:46] ⚠️  HTTP 404 for PEXNY - logo may not exist
+[2025-08-22 09:07:47] 📍 Processing WINA (83/162)
+[2025-08-22 09:07:47] ⬇️  Downloading logo for WINA...
+[2025-08-22 09:07:47] ⚠️  HTTP 404 for WINA - logo may not exist
+[2025-08-22 09:07:48] 📍 Processing IVZ (84/162)
+[2025-08-22 09:07:48] ⬇️  Downloading logo for IVZ...
+[2025-08-22 09:07:48] ✅ Successfully downloaded IVZ.svg (1.23 KB)
+[2025-08-22 09:07:49] 📍 Processing AFGD (85/162)
+[2025-08-22 09:07:49] ⬇️  Downloading logo for AFGD...
+[2025-08-22 09:07:49] ⚠️  HTTP 404 for AFGD - logo may not exist
+[2025-08-22 09:07:50] 📍 Processing ASBA (86/162)
+[2025-08-22 09:07:50] ⬇️  Downloading logo for ASBA...
+[2025-08-22 09:07:50] ⚠️  HTTP 404 for ASBA - logo may not exist
+[2025-08-22 09:07:51] 📍 Processing ATEN (87/162)
+[2025-08-22 09:07:51] ⬇️  Downloading logo for ATEN...
+[2025-08-22 09:07:52] ✅ Successfully downloaded ATEN.svg (0.66 KB)
+[2025-08-22 09:07:52] 📍 Processing BFK (88/162)
+[2025-08-22 09:07:52] ⬇️  Downloading logo for BFK...
+[2025-08-22 09:07:53] ⚠️  HTTP 404 for BFK - logo may not exist
+[2025-08-22 09:07:53] 📍 Processing BFZ (89/162)
+[2025-08-22 09:07:53] ⬇️  Downloading logo for BFZ...
+[2025-08-22 09:07:54] ⚠️  HTTP 404 for BFZ - logo may not exist
+[2025-08-22 09:07:54] 📍 Processing BHRB (90/162)
+[2025-08-22 09:07:54] ⬇️  Downloading logo for BHRB...
+[2025-08-22 09:07:55] ⚠️  HTTP 404 for BHRB - logo may not exist
+[2025-08-22 09:07:55] 📍 Processing BHV (91/162)
+[2025-08-22 09:07:55] ⬇️  Downloading logo for BHV...
+[2025-08-22 09:07:56] ⚠️  HTTP 404 for BHV - logo may not exist
+[2025-08-22 09:07:56] 📍 Processing CSUAY (92/162)
+[2025-08-22 09:07:56] ⬇️  Downloading logo for CSUAY...
+[2025-08-22 09:07:57] ⚠️  HTTP 404 for CSUAY - logo may not exist
+[2025-08-22 09:07:57] 📍 Processing HULCF (93/162)
+[2025-08-22 09:07:57] ⬇️  Downloading logo for HULCF...
+[2025-08-22 09:07:58] ⚠️  HTTP 404 for HULCF - logo may not exist
+[2025-08-22 09:07:59] 📍 Processing OSUKF (94/162)
+[2025-08-22 09:07:59] ⬇️  Downloading logo for OSUKF...
+[2025-08-22 09:07:59] ⚠️  HTTP 404 for OSUKF - logo may not exist
+[2025-08-22 09:08:00] 📍 Processing ZTS (95/162)
+[2025-08-22 09:08:00] ⬇️  Downloading logo for ZTS...
+[2025-08-22 09:08:00] ✅ Successfully downloaded ZTS.svg (2.41 KB)
+[2025-08-22 09:08:01] 📍 Processing PKCPY (96/162)
+[2025-08-22 09:08:01] ⬇️  Downloading logo for PKCPY...
+[2025-08-22 09:08:01] ⚠️  HTTP 404 for PKCPY - logo may not exist
+[2025-08-22 09:08:02] 📍 Processing AWK (97/162)
+[2025-08-22 09:08:02] ⬇️  Downloading logo for AWK...
+[2025-08-22 09:08:02] ✅ Successfully downloaded AWK.svg (2.66 KB)
+[2025-08-22 09:08:03] 📍 Processing HOMB (98/162)
+[2025-08-22 09:08:03] ⬇️  Downloading logo for HOMB...
+[2025-08-22 09:08:04] ✅ Successfully downloaded HOMB.svg (8.12 KB)
+[2025-08-22 09:08:04] 📍 Processing RROYF (99/162)
+[2025-08-22 09:08:04] ⬇️  Downloading logo for RROYF...
+[2025-08-22 09:08:05] ⚠️  HTTP 404 for RROYF - logo may not exist
+[2025-08-22 09:08:05] 📍 Processing BTU (100/162)
+[2025-08-22 09:08:05] ⬇️  Downloading logo for BTU...
+[2025-08-22 09:08:06] ✅ Successfully downloaded BTU.svg (2.41 KB)
+[2025-08-22 09:08:07] 📍 Processing VMC (101/162)
+[2025-08-22 09:08:07] ⏭️  Skipping VMC - file already exists
+[2025-08-22 09:08:07] 📍 Processing AWR (102/162)
+[2025-08-22 09:08:07] ⏭️  Skipping AWR - file already exists
+[2025-08-22 09:08:08] 📍 Processing BLX (103/162)
+[2025-08-22 09:08:08] ⬇️  Downloading logo for BLX...
+[2025-08-22 09:08:08] ⚠️  HTTP 404 for BLX - logo may not exist
+[2025-08-22 09:08:09] 📍 Processing COR (104/162)
+[2025-08-22 09:08:09] ⬇️  Downloading logo for COR...
+[2025-08-22 09:08:09] ⚠️  HTTP 404 for COR - logo may not exist
+[2025-08-22 09:08:10] 📍 Processing JBL (105/162)
+[2025-08-22 09:08:10] ⏭️  Skipping JBL - file already exists
+[2025-08-22 09:08:10] 📍 Processing PAG (106/162)
+[2025-08-22 09:08:10] ⏭️  Skipping PAG - file already exists
+[2025-08-22 09:08:11] 📍 Processing PECO (107/162)
+[2025-08-22 09:08:11] ⬇️  Downloading logo for PECO...
+[2025-08-22 09:08:11] ⚠️  HTTP 404 for PECO - logo may not exist
+[2025-08-22 09:08:12] 📍 Processing BBSEY (108/162)
+[2025-08-22 09:08:12] ⬇️  Downloading logo for BBSEY...
+[2025-08-22 09:08:12] ⚠️  HTTP 404 for BBSEY - logo may not exist
+[2025-08-22 09:08:13] 📍 Processing KLAC (109/162)
+[2025-08-22 09:08:13] ⏭️  Skipping KLAC - file already exists
+[2025-08-22 09:08:13] 📍 Processing NLOP (110/162)
+[2025-08-22 09:08:13] ⬇️  Downloading logo for NLOP...
+[2025-08-22 09:08:14] ⚠️  HTTP 404 for NLOP - logo may not exist
+[2025-08-22 09:08:14] 📍 Processing OGS (111/162)
+[2025-08-22 09:08:14] ⏭️  Skipping OGS - file already exists
+[2025-08-22 09:08:15] 📍 Processing REGN (112/162)
+[2025-08-22 09:08:15] ⏭️  Skipping REGN - file already exists
+[2025-08-22 09:08:15] 📍 Processing BKOR (113/162)
+[2025-08-22 09:08:15] ⬇️  Downloading logo for BKOR...
+[2025-08-22 09:08:16] ⚠️  HTTP 404 for BKOR - logo may not exist
+[2025-08-22 09:08:16] 📍 Processing BLMN (114/162)
+[2025-08-22 09:08:16] ⏭️  Skipping BLMN - file already exists
+[2025-08-22 09:08:17] 📍 Processing FTI (115/162)
+[2025-08-22 09:08:17] ⏭️  Skipping FTI - file already exists
+[2025-08-22 09:08:17] 📍 Processing AGO (116/162)
+[2025-08-22 09:08:17] ⏭️  Skipping AGO - file already exists
+[2025-08-22 09:08:18] 📍 Processing AVIKF (117/162)
+[2025-08-22 09:08:18] ⬇️  Downloading logo for AVIKF...
+[2025-08-22 09:08:18] ⚠️  HTTP 404 for AVIKF - logo may not exist
+[2025-08-22 09:08:19] 📍 Processing BGC (118/162)
+[2025-08-22 09:08:19] ⬇️  Downloading logo for BGC...
+[2025-08-22 09:08:19] ⚠️  HTTP 404 for BGC - logo may not exist
+[2025-08-22 09:08:20] 📍 Processing BLMIF (119/162)
+[2025-08-22 09:08:20] ⬇️  Downloading logo for BLMIF...
+[2025-08-22 09:08:21] ⚠️  HTTP 404 for BLMIF - logo may not exist
+[2025-08-22 09:08:21] 📍 Processing DRS (120/162)
+[2025-08-22 09:08:21] ⬇️  Downloading logo for DRS...
+[2025-08-22 09:08:22] ⚠️  HTTP 404 for DRS - logo may not exist
+[2025-08-22 09:08:22] 📍 Processing HAS (121/162)
+[2025-08-22 09:08:22] ⏭️  Skipping HAS - file already exists
+[2025-08-22 09:08:23] 📍 Processing KELYA (122/162)
+[2025-08-22 09:08:23] ⏭️  Skipping KELYA - file already exists
+[2025-08-22 09:08:23] 📍 Processing KELYB (123/162)
+[2025-08-22 09:08:23] ⬇️  Downloading logo for KELYB...
+[2025-08-22 09:08:24] ⚠️  HTTP 404 for KELYB - logo may not exist
+[2025-08-22 09:08:24] 📍 Processing MKTX (124/162)
+[2025-08-22 09:08:24] ⏭️  Skipping MKTX - file already exists
+[2025-08-22 09:08:25] 📍 Processing ORA (125/162)
+[2025-08-22 09:08:25] ⏭️  Skipping ORA - file already exists
+[2025-08-22 09:08:25] 📍 Processing OSW (126/162)
+[2025-08-22 09:08:25] ⏭️  Skipping OSW - file already exists
+[2025-08-22 09:08:26] 📍 Processing PPC (127/162)
+[2025-08-22 09:08:26] ⏭️  Skipping PPC - file already exists
+[2025-08-22 09:08:26] 📍 Processing WMG (128/162)
+[2025-08-22 09:08:26] ⏭️  Skipping WMG - file already exists
+[2025-08-22 09:08:27] 📍 Processing MCHVF (129/162)
+[2025-08-22 09:08:27] ⬇️  Downloading logo for MCHVF...
+[2025-08-22 09:08:27] ⚠️  HTTP 404 for MCHVF - logo may not exist
+[2025-08-22 09:08:28] 📍 Processing TRMD (130/162)
+[2025-08-22 09:08:28] ⬇️  Downloading logo for TRMD...
+[2025-08-22 09:08:28] ⚠️  HTTP 404 for TRMD - logo may not exist
+[2025-08-22 09:08:29] 📍 Processing RLEVF (131/162)
+[2025-08-22 09:08:29] ⬇️  Downloading logo for RLEVF...
+[2025-08-22 09:08:29] ⚠️  HTTP 404 for RLEVF - logo may not exist
+[2025-08-22 09:08:30] 📍 Processing SMA (132/162)
+[2025-08-22 09:08:30] ⬇️  Downloading logo for SMA...
+[2025-08-22 09:08:30] ⚠️  HTTP 404 for SMA - logo may not exist
+[2025-08-22 09:08:31] 📍 Processing STSFF (133/162)
+[2025-08-22 09:08:31] ⬇️  Downloading logo for STSFF...
+[2025-08-22 09:08:31] ⚠️  HTTP 404 for STSFF - logo may not exist
+[2025-08-22 09:08:32] 📍 Processing BTGGF (134/162)
+[2025-08-22 09:08:32] ⬇️  Downloading logo for BTGGF...
+[2025-08-22 09:08:32] ⚠️  HTTP 404 for BTGGF - logo may not exist
+[2025-08-22 09:08:33] 📍 Processing KBYPF (135/162)
+[2025-08-22 09:08:33] ⬇️  Downloading logo for KBYPF...
+[2025-08-22 09:08:33] ⚠️  HTTP 404 for KBYPF - logo may not exist
+[2025-08-22 09:08:34] 📍 Processing KNBWF (136/162)
+[2025-08-22 09:08:34] ⬇️  Downloading logo for KNBWF...
+[2025-08-22 09:08:34] ⚠️  HTTP 404 for KNBWF - logo may not exist
+[2025-08-22 09:08:35] 📍 Processing SSDOF (137/162)
+[2025-08-22 09:08:35] ⬇️  Downloading logo for SSDOF...
+[2025-08-22 09:08:35] ⚠️  HTTP 404 for SSDOF - logo may not exist
+[2025-08-22 09:08:36] 📍 Processing STBFF (138/162)
+[2025-08-22 09:08:36] ⬇️  Downloading logo for STBFF...
+[2025-08-22 09:08:36] ⚠️  HTTP 404 for STBFF - logo may not exist
+[2025-08-22 09:08:37] 📍 Processing SUMCF (139/162)
+[2025-08-22 09:08:37] ⬇️  Downloading logo for SUMCF...
+[2025-08-22 09:08:37] ⚠️  HTTP 404 for SUMCF - logo may not exist
+[2025-08-22 09:08:38] 📍 Processing TOAGF (140/162)
+[2025-08-22 09:08:38] ⬇️  Downloading logo for TOAGF...
+[2025-08-22 09:08:38] ⚠️  HTTP 404 for TOAGF - logo may not exist
+[2025-08-22 09:08:39] 📍 Processing SHKLF (141/162)
+[2025-08-22 09:08:39] ⬇️  Downloading logo for SHKLF...
+[2025-08-22 09:08:40] ⚠️  HTTP 404 for SHKLF - logo may not exist
+[2025-08-22 09:08:40] 📍 Processing JELCF (142/162)
+[2025-08-22 09:08:40] ⬇️  Downloading logo for JELCF...
+[2025-08-22 09:08:41] ⚠️  HTTP 404 for JELCF - logo may not exist
+[2025-08-22 09:08:41] 📍 Processing PEGRF (143/162)
+[2025-08-22 09:08:41] ⬇️  Downloading logo for PEGRF...
+[2025-08-22 09:08:42] ⚠️  HTTP 404 for PEGRF - logo may not exist
+[2025-08-22 09:08:42] 📍 Processing CJEWY (144/162)
+[2025-08-22 09:08:42] ⬇️  Downloading logo for CJEWY...
+[2025-08-22 09:08:43] ⚠️  HTTP 404 for CJEWY - logo may not exist
+[2025-08-22 09:08:43] 📍 Processing WFRD (145/162)
+[2025-08-22 09:08:43] ⏭️  Skipping WFRD - file already exists
+[2025-08-22 09:08:44] 📍 Processing MATX (146/162)
+[2025-08-22 09:08:44] ⏭️  Skipping MATX - file already exists
+[2025-08-22 09:08:44] 📍 Processing AER (147/162)
+[2025-08-22 09:08:44] ⏭️  Skipping AER - file already exists
+[2025-08-22 09:08:45] 📍 Processing EXE (148/162)
+[2025-08-22 09:08:45] ⬇️  Downloading logo for EXE...
+[2025-08-22 09:08:45] ⚠️  HTTP 404 for EXE - logo may not exist
+[2025-08-22 09:08:45] 📍 Processing HSNGF (149/162)
+[2025-08-22 09:08:45] ⬇️  Downloading logo for HSNGF...
+[2025-08-22 09:08:46] ⚠️  HTTP 404 for HSNGF - logo may not exist
+[2025-08-22 09:08:47] 📍 Processing IR (150/162)
+[2025-08-22 09:08:47] ⏭️  Skipping IR - file already exists
+[2025-08-22 09:08:47] 📍 Processing PCAR (151/162)
+[2025-08-22 09:08:47] ⏭️  Skipping PCAR - file already exists
+[2025-08-22 09:08:48] 📍 Processing PROV (152/162)
+[2025-08-22 09:08:48] ⬇️  Downloading logo for PROV...
+[2025-08-22 09:08:48] ⚠️  HTTP 404 for PROV - logo may not exist
+[2025-08-22 09:08:49] 📍 Processing TJX (153/162)
+[2025-08-22 09:08:49] ⏭️  Skipping TJX - file already exists
+[2025-08-22 09:08:49] 📍 Processing RTX (154/162)
+[2025-08-22 09:08:49] ⏭️  Skipping RTX - file already exists
+[2025-08-22 09:08:50] 📍 Processing SCCO (155/162)
+[2025-08-22 09:08:50] ⏭️  Skipping SCCO - file already exists
+[2025-08-22 09:08:50] 📍 Processing CNA (156/162)
+[2025-08-22 09:08:50] ⏭️  Skipping CNA - file already exists
+[2025-08-22 09:08:51] 📍 Processing DBSDY (157/162)
+[2025-08-22 09:08:51] ⬇️  Downloading logo for DBSDY...
+[2025-08-22 09:08:51] ⚠️  HTTP 404 for DBSDY - logo may not exist
+[2025-08-22 09:08:52] 📍 Processing NNGRY (158/162)
+[2025-08-22 09:08:52] ⬇️  Downloading logo for NNGRY...
+[2025-08-22 09:08:52] ⚠️  HTTP 404 for NNGRY - logo may not exist
+[2025-08-22 09:08:53] 📍 Processing UPS (159/162)
+[2025-08-22 09:08:53] ⏭️  Skipping UPS - file already exists
+[2025-08-22 09:08:53] 📍 Processing GPRK (160/162)
+[2025-08-22 09:08:53] ⬇️  Downloading logo for GPRK...
+[2025-08-22 09:08:53] ⚠️  HTTP 404 for GPRK - logo may not exist
+[2025-08-22 09:08:54] 📍 Processing HKTTF (161/162)
+[2025-08-22 09:08:54] ⬇️  Downloading logo for HKTTF...
+[2025-08-22 09:08:54] ⚠️  HTTP 404 for HKTTF - logo may not exist
+[2025-08-22 09:08:55] 📍 Processing PRG (162/162)
+[2025-08-22 09:08:55] ⏭️  Skipping PRG - file already exists
+[2025-08-22 09:08:55] 🎉 Download process completed in 144 seconds
+[2025-08-22 09:08:55] 📊 Final Statistics:
+[2025-08-22 09:08:55]    - Total tickers: 162
+[2025-08-22 09:08:55]    - Successfully downloaded: 19
+[2025-08-22 09:08:55]    - Skipped (already exist): 50
+[2025-08-22 09:08:55]    - Not found: 93
+[2025-08-22 09:08:55]    - Errors: 0
